@@ -1,0 +1,41 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+** IBERIAN **;;;;;;;;;;;;;;
+city_empire_of_iberian;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_king_iberian;Tribune;Tribun;Volkstribun;;Tribuno;;;;;;;;;x
+city_kingdom_of_iberian;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_duke_iberian;Lord Magistrate;Seigneur Magistrat;Herr Friedensrichter;;Signore Magistrado;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_count_iberian;Corregidor;Corregidor;Corregidor;;Corregidor;;;;;;;;;x
+city_county_of_iberian;Corregimento of;Corregimento of;Corregimento of;;Corregimento of;;;;;;;;;x
+;;;;;;;;;;;;;;
+baron_iberian;Lord;Seigneur;Herr;;Señor;;;;;;;;;x
+baron_female_iberian;Lady;Matrone;Oberin;;Jefa;;;;;;;;;x
+barony_of_iberian;Castle of;Château de;Schloss von;;Castillo de;;;;;;;;;x
+family_palace_baron_iberian;Grandee;Grandee;Grandee;;Grandee;;;;;;;;;x
+family_palace_baron_female_irish;Lady;Dame;Frau;;Señora;;;;;;;;;x
+;;;;;;;;;;;;;;
+** BASQUE **;;;;;;;;;;;;;;
+emperor_basque;Enperadoreak;Enperadoreak;Enperadoreak;;Enperadoreak;;;;;;;;;x
+emperor_female_basque;Enperatriz;Enperatriz;Enperatriz;;Enperatriz;;;;;;;;;x
+emperor_title_queen_mother_female_basque;Enperatriz Ama;Enperatriz Ama;Enperatriz Ama;;Enperatriz Ama;;;;;;;;;x
+city_emperor_basque;Kontsul;Kontsul;Kontsul;;Kontsul;;;;;;;;;x
+;;;;;;;;;x
+** CASTILLIAN **;;;;;;;;;;;;;;
+emperor_castillian;Emperador;Emperador;Emperador;;Emperador;;;;;;;;;x
+emperor_female_castillian;Emperatriz;Emperatriz;Enperatriz;;Enperatriz;;;;;;;;;x
+emperor_title_queen_mother_female_castillian;Emperatriz Viuda;Enperatriz Viuda;Enperatriz Viuda;;Enperatriz Viuda;;;;;;;;;x
+city_emperor_castillian;Cónsul;Cónsul;Cónsul;;Cónsul;;;;;;;;;x
+;;;;;;;;;;;;;;
+** CATALAN **;;;;;;;;;;;;;;
+emperor_catalan;Emperador;Emperador;Emperador;;Emperador;;;;;;;;;x
+emperor_female_catalan;Emperatriz;Emperatriz;Enperatriz;;Enperatriz;;;;;;;;;x
+emperor_title_queen_mother_female_catalan;Emperatriz Viuda;Enperatriz Viuda;Enperatriz Viuda;;Enperatriz Viuda;;;;;;;;;x
+city_emperor_catalan;Cónsul;Cónsul;Cónsul;;Cónsul;;;;;;;;;x
+;;;;;;;;;;;;;;
+** PORTUGUESE **;;;;;;;;;;;;;;
+emperor_portuguese;Imperador;Imperador;Imperador;;Imperador;;;;;;;;;x
+emperor_female_portuguese;Imperatriz;Imperatriz;Imperatriz;;Imperatriz;;;;;;;;;x
+emperor_title_queen_mother_female_portuguese;Imperatriz Viúva;Imperatriz Viúva;Imperatriz Viúva;;Imperatriz Viúva;;;;;;;;;x
+city_emperor_portuguese;Cônsul;Cônsul;Cônsul;;Cônsul;;;;;;;;;x

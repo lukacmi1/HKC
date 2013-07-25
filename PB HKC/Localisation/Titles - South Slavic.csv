@@ -1,0 +1,105 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+** SOUTH SLAVIC **;;;;;;;;;;;;;;
+** CROATIAN **;;;;;;;;;;;;;;
+emperor_croatian;Car;Car;Car;;Car;;;;;;;;;x
+emperor_female_croatian;Carica;Carica;Carica;;Carica;;;;;;;;;x
+emperor_title_queen_mother_female_croatian;Carica Majka;Carica Majka;Carica Majka;;Carica Majka;;;;;;;;;x
+city_emperor_croatian;Konzul;Konzul;Konzul;;Konzul;;;;;;;;;x
+city_empire_of_croatian;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_king_croatian;Tribune;Tribun;Volkstribun;;Tribuno;;;;;;;;;x
+city_kingdom_of_croatian;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_duke_croatian;Rector;Recteur;Rektor;;Rectorado;;;;;;;;;x
+;;;;;;;;;;;;;;
+** SERBIAN **;;;;;;;;;;;;;;
+emperor_serbian;Car;Car;Car;;Car;;;;;;;;;x
+emperor_female_serbian;Carica;Carica;Carica;;Carica;;;;;;;;;x
+emperor_title_queen_mother_female_serbian;Carica Majka;Carica Majka;Carica Majka;;Carica Majka;;;;;;;;;x
+city_emperor_serbian;Konzul;Konzul;Konzul;;Konzul;;;;;;;;;x
+city_empire_of_serbian;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+king_serbian;Despot;Despote;Despot;;Déspota;;;;;;;;;x
+king_female_serbian;Despotess;Dame Despote;Frau Despot;;Señora Déspota;;;;;;;;;x
+kingdom_of_serbian;Despotate of;Despotat de;Despotate von;;Despotado de;;;;;;;;;x
+city_king_croatian;Tribune;Tribun;Volkstribun;;Tribuno;;;;;;;;;x
+city_kingdom_of_serbian;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_duke_serbian;Rector;Recteur;Rektor;;Rectorado;;;;;;;;;x
+;;;;;;;;;;;;;;
+baron_serbian;Boyar;Boyard;Bojare;;Boyardo;;;;;;;;;x
+barony_of_serbian;Castle of;Château de;Schloss von;;Castillo de;;;;;;;;;x
+;;;;;;;;;;;;;;
+** VLACH **;;;;;;;;;;;;;;
+emperor_vlach;Car;Car;Car;;Car;;;;;;;;;x
+emperor_female_vlach;Carica;Carica;Carica;;Carica;;;;;;;;;x
+emperor_title_queen_mother_female_vlach;Carica Majka;Carica Majka;Carica Majka;;Carica Majka;;;;;;;;;x
+city_emperor_vlach;Velik Knez;Velik Knez;Velik Knez;;Velik Knez;;;;;;;;;x
+city_empire_of_vlach;Grand Principality of;Grande Principauté de;Großfürstentum von;;Gran Principado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+king_vlach;Grand Prince;Grand Prince;Großen Fürst;;Gran Príncipe;;;;;;;;;x
+king_female_vlach;Grand Princess;Grande Princesse;Großen Fürstin;;Gran Princesa;;;;;;;;;x
+kingdom_of_vlach;Grand Principality of;Grande Principauté de;Großfürstentum von;;Gran Principado de;;;;;;;;;x
+city_king_vlach;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
+city_kingdom_of_vlach;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
+;;;;;;;;;;;;;;
+duke_vlach;Prince;Prince;Fürst;;Príncipe;;;;;;;;;x
+duke_female_vlach;Princess;Princesse;Fürstin;;Princesa;;;;;;;;;x
+duchy_of_vlach;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
+city_duke_vlach;Voivode;Voïvode;Woiwode;;Voïvode;;;;;;;;;x
+;;;;;;;;;;;;;;
+count_vlach;Grand Boyar;Grand-Boyard;Großen Bojare;;Gran Boyardo;;;;;;;;;x
+county_of_vlach;Grand Boyardom of;Grand Boyardome de;Großen Bojardom von;;Gran Boyardomo de;;;;;;;;;x
+;;;;;;;;;;;;;;
+baron_vlach;Boyar;Boyard;Bojare;;Boyardo;;;;;;;;;x
+baron_female_vlach;Lady;Dame;Frau;;Señora;;;;;;;;;x
+barony_of_vlach;Boyardom of;Boyardome de;Bojardom von;;Boyardomo de;;;;;;;;;x
+family_palace_baron_vlach;Magnate;Magnat;Magnat;;Magnate;;;;;;;;;x
+family_palace_baron_female_vlach;Lady;Dame;Frau;;Señora;;;;;;;;;x
+;;;;;;;;;;;;;;
+** BULGARIAN **;;;;;;;;;;;;;;
+emperor_bulgarian;Imperatorut;Imperatorut;Imperatorut;;Imperatorut;;;;;;;;;x
+emperor_female_bulgarian;Imperatritsata;Imperatritsata;Imperatritsata;;Imperatritsata;;;;;;;;;x
+emperor_title_queen_mother_female_bulgarian;Imperatritsa Maiko;Imperatritsa Maiko;Imperatritsa Maiko;;Imperatritsa Maiko;;;;;;;;;x
+city_emperor_bulgarian;Velik Prints;Velik Prints;Velik Prints;;Velik Prints;;;;;;;;;x
+city_empire_of_bulgarian;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+king_bulgarian;Despot;Despote;Despot;;Déspota;;;;;;;;;x
+king_female_bulgarian;Despotess;Dame Despote;Frau Despot;;Señora Déspota;;;;;;;;;x
+kingdom_of_bulgarian;Despotate of;Despotat de;Despotate von;;Despotado de;;;;;;;;;x
+city_king_bulgarian;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
+city_kingdom_of_bulgarian;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
+;;;;;;;;;;;;;;
+duke_bulgarian;Grand Boyar;Grand-Boyard;Großen Bojare;;Gran Boyardo;;;;;;;;;x
+duchy_of_bulgarian;Grand Boyardom of;Grand Boyardome de;Großen Bojardom von;;Gran Boyardomo de;;;;;;;;;x
+city_duke_bulgarian;Voivode;Voïvode;Woiwode;;Voïvode;;;;;;;;;x
+;;;;;;;;;;;;;;
+count_bulgarian;Boyar;Boyard;Bojare;;Boyardo;;;;;;;;;x
+county_of_bulgarian;Boyardom of;Boyardome de;Bojardom von;;Boyardomo de;;;;;;;;;x
+;;;;;;;;;;;;;;
+** SLOVENE **;;;;;;;;;;;;;;
+emperor_slovene;Car;Car;Car;;Car;;;;;;;;;x
+emperor_female_slovene;Carica;Carica;Carica;;Carica;;;;;;;;;x
+emperor_title_queen_mother_female_slovene;Carica Majka;Carica Majka;Carica Majka;;Carica Majka;;;;;;;;;x
+city_emperor_slovene;Velik Knez;Velik Knez;Velik Knez;;Velik Knez;;;;;;;;;x
+city_empire_of_slovene;Grand Principality of;Grande Principauté de;Großfürstentum von;;Gran Principado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+king_slovene;Grand Prince;Grand Prince;Großen Fürst;;Gran Príncipe;;;;;;;;;x
+king_female_slovene;Grand Princess;Grande Princesse;Großen Fürstin;;Gran Princesa;;;;;;;;;x
+kingdom_of_slovene;Grand Principality of;Grande Principauté de;Großfürstentum von;;Gran Principado de;;;;;;;;;x
+city_king_slovene;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
+city_kingdom_of_slovene;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
+;;;;;;;;;;;;;;
+duke_slovene;Prince;Prince;Fürst;;Príncipe;;;;;;;;;x
+duke_female_slovene;Princess;Princesse;Fürstin;;Princesa;;;;;;;;;x
+duchy_of_slovene;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
+city_duke_slovene;Voivode;Voïvode;Woiwode;;Voïvode;;;;;;;;;x
+;;;;;;;;;;;;;;
+count_slovene;Grand Boyar;Grand-Boyard;Großen Bojare;;Gran Boyardo;;;;;;;;;x
+county_of_slovene;Grand Boyardom of;Grand Boyardome de;Großen Bojardom von;;Gran Boyardomo de;;;;;;;;;x
+;;;;;;;;;;;;;;
+baron_slovene;Boyar;Boyard;Bojare;;Boyardo;;;;;;;;;x
+baron_female_slovene;Lady;Dame;Frau;;Señora;;;;;;;;;x
+barony_of_slovene;Boyardom of;Boyardome de;Bojardom von;;Boyardomo de;;;;;;;;;x
+family_palace_baron_slovene;Magnate;Magnat;Magnat;;Magnate;;;;;;;;;x
+family_palace_baron_female_slovene;Lady;Dame;Frau;;Señora;;;;;;;;;x

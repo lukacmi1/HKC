@@ -1,0 +1,30 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+** CENTRAL GERMANIC **;;;;;;;;;;;;;;
+city_king_central_germanic;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
+city_kingdom_of_central_germanic;Federation of;Fédération de;Föderation von;;Federación de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_duke_central_germanic;First Mayor;Premier Maire;Erster Bürgermeister;;Primer Alcalde;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_county_of_central_germanic;Free City of;Ville Libre de;Freie Reichsstadt von;;Ciudad Libre del Jeque;;;;;;;;;x
+;;;;;;;;;;;;;;
+family_palace_baron_central_germanic;Grand Burgher;Grand Bourgeois;Großbürger;;Gran Burgués;;;;;;;;;x
+family_palace_baron_female_central_germanic;Grand Burgheress;Grande Bourgeoise;Großbürgerin;;Gran Burguesa;;;;;;;;;x
+;;;;;;;;;;;;;;
+** German **;;;;;;;;;;;;;;
+emperor_german;Kaiser;Kaiser;Kaiser;;Kaiser;;;;;;;;;x
+emperor_female_german;Kaiserin;Kaiserin;Kaiserin;;Kaiserin;;;;;;;;;x
+emperor_title_queen_mother_female_german;Kaiserinmutter;Kaiserinmutter;Kaiserinmutter;;Kaiserinmutter;;;;;;;;;x
+city_emperor_german;Reichskanzler;Reichskanzler;Reichskanzler;;Reichskanzler;;;;;;;;;x
+city_empire_of_german;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+** DUTCH **;;;;;;;;;;;;;;
+emperor_dutch;Keiser;Keiser;Keiser;;Keiser;;;;;;;;;x
+emperor_female_dutch;Keiserin;Keiserin;Keiserin;;Keiserin;;;;;;;;;x
+emperor_title_queen_mother_female_dutch;Keiserin Douairiëre;Keiserin Douairiëre;Keiserin Douairiëre;;Keiserin Douairiëre;;;;;;;;;x
+city_emperor_dutch;Rijk Kanselier;Rijk Kanselier;Rijk Kanselier;;Rijk Kanselier;;;;;;;;;x
+;;;;;;;;;;;;;;
+** FRISIAN **;;;;;;;;;;;;;;
+emperor_frisian;Keiser;Keiser;Keiser;;Keiser;;;;;;;;;x
+emperor_female_frisian;Keiserin;Keiserin;Keiserin;;Keiserin;;;;;;;;;x
+emperor_title_queen_mother_female_frisian;Keiserin Douairiëre;Keiserin Douairiëre;Keiserin Douairiëre;;Keiserin Douairiëre;;;;;;;;;x
+city_emperor_frisian;Rijk Kanselier;Rijk Kanselier;Rijk Kanselier;;Rijk Kanselier;;;;;;;;;x
