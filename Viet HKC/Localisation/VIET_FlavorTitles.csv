@@ -1,0 +1,177 @@
+job_marshal_greek;Protostrator;Protostrator;Protostrator;;Protostrator;;;;;;;;;x
+job_chancellor_greek;Logothete;Logothete;Logothete;;Logothete;;;;;;;;;x
+job_treasurer_greek;Sakellarios;Sakellarios;Sakellarios;;Sakellarios;;;;;;;;;x
+job_marshal_griko;Protostrator;Protostrator;Protostrator;;Protostrator;;;;;;;;;x
+job_chancellor_griko;Logothete;Logothete;Logothete;;Logothete;;;;;;;;;x
+job_treasurer_griko;Sakellarios;Sakellarios;Sakellarios;;Sakellarios;;;;;;;;;x
+title_prince_greek;Despotes;Despotes;Despotes;;Despotes;;;;;;;;;x
+title_prince_female_greek;Despoina;Despoina;Despoina;;Despoina;;;;;;;;;x
+title_prince_griko;Despotes;Despotes;Despotes;;Despotes;;;;;;;;;x
+title_prince_female_griko;Despoina;Despoina;Despoina;;Despoina;;;;;;;;;x
+job_marshal_georgian;Spaspet;Spaspet;Spaspet;;Spaspet;;;;;;;;;x
+title_prince_georgian;Tavadi;Tavadi;Tavadi;;Tavadi;;;;;;;;;x
+title_prince_female_georgian;Tavadi;Tavadi;Tavadi;;Tavadi;;;;;;;;;x
+job_marshal_armenian;Sparapet;Sparapet;Sparapet;;Sparapet;;;;;;;;;x
+job_marshal_vlach;Ispravnic;Ispravnic;Ispravnic;;Ispravnic;;;;;;;;;x
+job_treasurer_vlach;Vistiernic;Vistiernic;Vistiernic;;Vistiernic;;;;;;;;;x
+job_chancellor_vlach;Logofat;Logofat;Logofat;;Logofat;;;;;;;;;x
+title_prince_east_slavic;Tsarevich;Tsarevich;Tsarevich;;Tsarevich;;;;;;;;;x
+title_prince_female_east_slavic;Tsarevna;Tsarevna;Tsarevna;;Tsarevna;;;;;;;;;x
+job_treasurer_serbian;Protovestijar;Protovestijar;Protovestijar;;Protovestijar;;;;;;;;;x
+job_treasurer_croatian;Protovestijar;Protovestijar;Protovestijar;;Protovestijar;;;;;;;;;x
+job_treasurer_slovene;Protovestijar;Protovestijar;Protovestijar;;Protovestijar;;;;;;;;;x
+job_marshal_east_african;Dejazmach;Dejazmach;Dejazmach;;Dejazmach;;;;;;;;;x
+job_treasurer_east_african;Tshehafi Tezaz;Tshehafi Tezaz;Tshehafi Tezaz;;Tshehafi Tezaz;;;;;;;;;x
+king_somali;Boqor;Boqor;Boqor;;Boqor;;;;;;;;;x
+king_female_somali;Boqorad;Boqorad;Boqorad;;Boqorad;;;;;;;;;x
+count_somali;Boqortiishe;Boqortiishe;Boqortiishe;;Boqortiishe;;;;;;;;;x
+baron_somali;Ugaas;Ugaas;Ugaas;;Ugaas;;;;;;;;;x
+city_baron_somali;Caaqil;Caaqil;Caaqil;;Caaqil;;;;;;;;;x
+temple_baron_somali;Islaan;Islaan;Islaan;;Islaan;;;;;;;;;x
+job_marshal_somali;Malaakh;Malaakh;Malaakh;;Malaakh;;;;;;;;;x
+job_spymaster_somali;Guurtiyaal;Guurtiyaal;Guurtiyaal;;Guurtiyaal;;;;;;;;;x
+title_prince_east_african;Abeto;Abeto;Abeto;;Abeto;;;;;;;;;x
+title_prince_female_east_african;Emebet Hoy;Emebet Hoy;Emebet Hoy;;Emebet Hoy;;;;;;;;;x
+job_marshal_west_african;Farari;Farari;Farari;;Farari;;;;;;;;;x
+job_chancellor_west_african;Kankoro-Sigui;Kankoro-Sigui;Kankoro-Sigui;;Kankoro-Sigui;;;;;;;;;x;
+king_jolof;Lamane;Lamane;Lamane;;Lamane;;;;;;;;;x
+duke_jolof;Maad;Maad;Maad;;Maad;;;;;;;;;x
+count_jolof;Teigne;Teigne;Teigne;;Teigne;;;;;;;;;x
+king_mossi;Mogho Naaba;Mogho Naaba;Mogho Naaba;;Mogho Naaba;;;;;;;;;x
+duke_mossi;Dima;Dima;Dima;;Dima;;;;;;;;;x
+count_mossi;Nakomse;Nakomse;Nakomse;;Nakomse;;;;;;;;;x
+title_prince_west_african;Maghan;Maghan;Maghan;;Maghan;;;;;;;;;x
+city_county_of_central_germanic;Free Imperial City of;Ville Libre D'Empire de;Freie Reichsstadt von;;Ciudad Imperial Libre del Jeque;;;;;;;;;x
+#Zoroastrian and Iranian;;;;;;;;;;;;;;x
+count_pashtun;Malik;Malik;Malik;;Malik;;;;;;;;;x
+count_female_pashtun;Malikah;Malikah;Malikah;;Malikah;;;;;;;;;x
+county_of_pashtun;Malikate of;Malikate de;Malikate von;;Malikate del Jeque;;;;;;;;;x
+county_pashtun;Malikate;Malikate;Malikate;;Malikate;;;;;;;;;x
+job_marshal_zoroastrian_group;Spahbod;Spahbod;Spahbod;;Spahbod;;;;;;;;;x
+job_spiritual_zoroastrian_group;Court Magi;Court Magi;Court Magi;;Magi de la corte;;;;;;;;;x;
+job_treasurer_zoroastrian_group;Ho Tokhshan Bod;Ho Tokhshan Bod;Ho Tokhshan Bod;;Ho Tokhshan Bod;;;;;;;;;x
+job_chancellor_zoroastrian_group;Bozorg Farmadar;Bozorg Farmadar;Bozorg Farmadar;;Bozorg Farmadar;;;;;;;;;x
+temple_emperor_zoroastrian_group;Moabandan-Moabad;Moabandan-Moabad;Moabandan-Moabad;;Moabandan-Moabad;;;;;;;;;x
+temple_king_zoroastrian_group;Moabandan-Moabad;Moabandan-Moabad;Moabandan-Moabad;;Moabandan-Moabad;;;;;;;;;x
+temple_duke_zoroastrian_group;Magi;Magi;Magi;;Magi;;;;;;;;;x
+temple_duchy_of_zoroastrian_group;Atash i-Vahram of;Atash i-Vahram de;Atash i-Vahram von;;Atash i-Vahram de;;;;;;;;;x
+temple_count_zoroastrian_group;Dastur;Dastur;Dastur;;Dastur;;;;;;;;;x
+temple_county_of_zoroastrian_group;Atash i-Adaran of;Atash i-Adaran de;Atash i-Adaran von;;Atash i-Adaran del jeque de;;;;;;;;;x
+temple_baron_zoroastrian_group;Mobad;Mobad;Mobad;;Mobad;;;;;;;;;x
+temple_barony_of_zoroastrian_group;Atash i-Dadgah of;Atash i-Dadgah de;Atash i-Dadgah von;;Atash i-Dadgah de;;;;;;;;;x
+title_prince_iranian;Shahzadeh;Shahzadeh;Shahzadeh;;Shahzadeh;;;;;;;;;x
+title_prince_female_iranian;Shahzadeh;Shahzadeh;Shahzadeh;;Shahzadeh;;;;;;;;;x
+barony_of_azeri;Aul;Aul;Aul;;Aul;;;;;;;;;x
+barony_azeri;Aul;Aul;Aul;;Aul;;;;;;;;;x
+#Altaic;;;;;;;;;;;;;;x
+duke_mongol;Noyan;Noyan;Noyan;;Noyan;;;;;;;;;x
+count_mongol;Darga;Darga;Darga;;Darga;;;;;;;;;x
+baron_mongol;Taishi;Taishi;Taishi;;Taishi;;;;;;;;;x
+duke_female_mongol;Begum;Begum;Begum;;Begum;;;;;;;;;x
+count_female_mongol;Behichi;Behichi;Behichi;;Behichi;;;;;;;;;x
+baron_female_mongol;Behi;Behi;Behi;;Behi;;;;;;;;;x
+title_prince_mongol;Taiji;Taiji;Taiji;;Taiji;;;;;;;;;x
+title_prince_female_mongol;Gongzhu;Gongzhu;Gongzhu;;Gongzhu;;;;;;;;;x
+job_marshal_mongol;Boyan;Boyan;Boyan;;Boyan;;;;;;;;;x
+duke_cuman;Tarkhan;Tarkhan;Tarkhan;;Tarkhan;;;;;;;;;x
+duke_pecheneg;Tarkhan;Tarkhan;Tarkhan;;Tarkhan;;;;;;;;;x
+duke_bulgar;Tarkhan;Tarkhan;Tarkhan;;Tarkhan;;;;;;;;;x
+city_baron_bulgar;Boritarkan;Boritarkan;Boritarkan;;Boritarkan;;;;;;;;;x
+count_cuman;Baghatur;Baghatur;Baghatur;;Baghatur;;;;;;;;;x
+count_pecheneg;Baghatur;Baghatur;Baghatur;;Baghatur;;;;;;;;;x
+count_bulgar;Baghatur;Baghatur;Baghatur;;Baghatur;;;;;;;;;x
+job_marshal_bulgar;Kanusubigi;Kanusubigi;Kanusubigi;;Kanusubigi;;;;;;;;;x
+job_treasurer_turkish;Defterdar;Defterdar;Defterdar;;Defterdar;;;;;;;;;x
+#Hindu Titles;;;;;;;;;;;;;;x
+barony_of_indian;Jagirdar of;Jagirdar de;Jagirdar von;;Jagirdar de;;;;;;;;;x
+barony_indian;Jagirdar;Jagirdar;Jagirdar;;Jagirdar;;;;;;;;;x
+baron_indian;Jagir;Jagir;Jagir;;Jagir;;;;;;;;;x
+baron_indian_female;Jagir;Jagir;Jagir;;Jagir;;;;;;;;;x
+count_indian;Sardar;Sardar;Sardar;;Sardar;;;;;;;;;x
+count_indian_female;Sardar;Sardar;Sardar;;Sardar;;;;;;;;;x
+#county_of_indian;High Lordship of;High Lordship de;High Lordship von;;High Lordship del Jeque;;;;;;;;;x
+#county_indian;High Lordship;High Lordship;High Lordship;;High Lordship;;;;;;;;;x
+duke_indian;Thakur;Thakur;Thakur;;Thakur;;;;;;;;;x
+duke_female_indian;Thakurani;Thakurani;Thakurani;;Thakurani;;;;;;;;;x
+duchy_of_indian;Thikana of;Thikana de;Thikana von;;Thikana de;;;;;;;;;x
+duchy_indian;Thikana;Thikana;Thikana;;Thikana;;;;;;;;;x
+king_indian;Raja;Raja;Raja;;Raja;;;;;;;;;x
+king_female_indian;Rani;Rani;Rani;;Rani;;;;;;;;;x
+king_title_ruler_consort_indian;Raja;Raja;Raja;;Raja;;;;;;;;;x
+king_title_ruler_consort_female_indian;Rani;Rani;Rani;;Rani;;;;;;;;;x
+kingdom_of_indian;Raj of;Raj de;Raj von;;Raj de;;;;;;;;;x
+kingdom_indian;Raj;Raj;Raj;;Raj;;;;;;;;;
+emperor_indian;Maharaja;Maharaja;Maharaja;;Maharaja;;;;;;;;;x
+emperor_title_ruler_consort_indian;Maharaja;Maharaja;Maharaja;;Maharaja;;;;;;;;;x
+emperor_title_ruler_consort_female_indian;Maharani;Maharani;Maharani;;Maharani;;;;;;;;;x
+emperor_female_indian;Maharani;Maharani;Maharani;;Maharani;;;;;;;;;x
+empire_of_indian;Raj of;Raj de;Raj von;;Raj de;;;;;;;;;x
+empire_indian;Raj;Raj;Raj;;Raj;;;;;;;;;
+#Other Religious Titles;;;;;;;;;;;;;;x
+temple_king_manichaean;Apostle;Apostle;Apostle;;Apostle;;;;;;;;;x
+temple_kingdom_of_manichaean;Apostolate of;Apostolate de;Apostolate von;;Apostolate de;;;;;;;;;x
+temple_duke_manichaean;Apostle;Apostle;Apostle;;Apostle;;;;;;;;;x
+temple_duchy_of_manichaean;Apostolate of;Apostolate de;Apostolate von;;Apostolate de;;;;;;;;;x
+temple_count_manichaean;Bishop;Bishop;Bishop;;Bishop;;;;;;;;;x
+temple_county_of_manichaean;Bishopric of;Évêché de;Bistum von;;Obispado de;;;;;;;;;x
+temple_baron_manichaean;Prebyster;Prebyster;Prebyster;;Prebyster;;;;;;;;;x
+temple_barony_of_manichaean;Prebysterate of;Prebysterate de;Prebysterate von;;Prebysterate de;;;;;;;;;x
+temple_king_bektashi;Dedebaba;Dedebaba;Dedebaba;;Dedebaba;;;;;;;;;x
+temple_kingdom_of_bektashi;Pir Evi of;Pir Evi de;Pir Evi von;;Pir Evi de;;;;;;;;;x
+temple_duke_bektashi;Dedebaba;Dedebaba;Dedebaba;;Dedebaba;;;;;;;;;x
+temple_duchy_of_bektashi;Pir Evi of;Pir Evi de;Pir Evi von;;Pir Evi de;;;;;;;;;x
+temple_count_bektashi;Halife-Baba;Halife-Baba;Halife-Baba;;Halife-Baba;;;;;;;;;x
+temple_county_of_bektashi;Khanqah of;Khanqah de;Khanqah von;;Khanqah de;;;;;;;;;x
+temple_baron_bektashi;Baba;Baba;Baba;;Baba;;;;;;;;;x
+temple_barony_of_bektashi;Tekke of;Tekke de;Tekke von;;Tekke de;;;;;;;;;x
+temple_king_druze;Ajawid;Ajawid;Ajawid;;Ajawid;;;;;;;;;x
+temple_kingdom_of_druze;Al-Kabir Khalwa of;Al-Kabir Khalwa de;Al-Kabir Khalwa von;;Al-Kabir Khalwa de;;;;;;;;;x
+temple_duke_druze;Ajawid;Ajawid;Ajawid;;Ajawid;;;;;;;;;x
+temple_duchy_of_druze;Al-Kabir Khalwa of;Al-Kabir Khalwa de;Al-Kabir Khalwa von;;Al-Kabir Khalwa de;;;;;;;;;x
+temple_count_druze;Uqqal;Uqqal;Uqqal;;Uqqal;;;;;;;;;x
+temple_county_of_druze;Khalwa of;Khalwa de;Khalwa von;;Khalwa de;;;;;;;;;x
+temple_baron_druze;Ra’is;Ra’is;Ra’is;;Ra’is;;;;;;;;;x
+temple_barony_of_druze;Mqateh of;Mqateh de;Mqateh von;;Mqateh de;;;;;;;;;x
+temple_king_mandaean;Rishamma;Rishamma;Rishamma;;Rishamma;;;;;;;;;x
+temple_kingdom_of_mandaean;Padashar of;Padashar de;Padashar von;;Padashar de;;;;;;;;;x
+temple_duke_mandaean;Ganzibria;Ganzibria;Ganzibria;;Ganzibria;;;;;;;;;x
+temple_duchy_of_mandaean;Daura of;Daura de;Daura von;;Daura de;;;;;;;;;x
+temple_count_mandaean;Tarmida;Tarmida;Tarmida;;Tarmida;;;;;;;;;x
+temple_county_of_mandaean;Mata of;Mata de;Mata von;;Mata de;;;;;;;;;x
+temple_baron_mandaean;Yalufa;Yalufa;Yalufa;;Yalufa;;;;;;;;;x
+temple_barony_of_mandaean;Mandi of;Mandi de;Mandi von;;Mandi de;;;;;;;;;x
+temple_count_judaism_group;Chief Rabbi;Grand Rabbin;Oberrabbiner;;Gran Rabino;;;;;;;;;x
+temple_county_of_judaism_group;Rabinnate of;Rabbinat de;Rabbinat von;;Rabinato de;;;;;;;;;x
+temple_baron_judaism_group;Rabbi;Rabbi;Rabbi;;Rabbi;;;;;;;;;x
+temple_barony_of_judaism_group;Synagogue of;Synagogue de;Synagogue von;;Synagogue de;;;;;;;;;x
+job_spiritual_judaism_group;Court Rabbi;Court Rabbi;Court Rabbi;;Rabbi de la corte;;;;;;;;;x
+temple_count_hindu;Guru;Guru;Guru;;Guru;;;;;;;;;x
+temple_county_of_hindu;Bannab of;Bannab de;Bannab von;;Bannab de;;;;;;;;;x
+temple_baron_hindu;Acharya;Acharya;Acharya;;Acharya;;;;;;;;;x
+temple_barony_of_hindu;Mandir of;Mandir de;Mandir von;;Mandir de;;;;;;;;;x
+job_spiritual_hindu;Court Acharya;Court Acharya;Court Acharya;;Acharya de la corte;;;;;;;;;x
+temple_barony_orthodox;Metropolis;Metropolis;Metropolis;;Metropolis;;;;;;;;;x
+temple_barony_of_orthodox;Metropolis of;Metropolis de;Metropolis von;;Metropolis del Jeque;;;;;;;;;x
+temple_baron_orthodox;Metropolitan;Metropolitan;Metropolitan;;Metropolitan;;;;;;;;;x
+#Merchant Republics;;;;;;;;;;;;;;x
+family_palace_baron_muslim;Rais;Rais;Rais;;Rais;;;;;;;;;x
+family_palace_baron_zoroastrian_group;Rais;Rais;Rais;;Rais;;;;;;;;;x
+family_palace_baron_hindu;Rais;Rais;Rais;;Rais;;;;;;;;;x
+city_duke_muslim;Hakim;Hakim;Hakim;;Hakim;;;;;;;;;x
+city_king_muslim;Malik;Malik;Malik;;Malik;;;;;;;;;x
+city_kingdom_of_muslim;Malikate of;Malikate de;Malikate von;;Malikate del Jeque de;;;;;;;;;x;
+city_kingdom_muslim;Malikate;Malikate;Malikate;;Malikate;;;;;;;;;x;
+#Minor Changes;;;;;;;;;;;;;;x
+city_count_italian;Signore;Signore;Signore;;Signore;;;;;;;;;x
+city_count_female_italian;Signora;Signora;Signora;;Signora;;;;;;;;;x
+city_county_of_italian;Comune of;Comune de;Comune von;;Comune del Jeque;;;;;;;;;x
+city_count_sicilian;Signore;Signore;Signore;;Signore;;;;;;;;;x
+city_count_female_sicilian;Signora;Signora;Signora;;Signora;;;;;;;;;x
+city_county_of_sicilian;Comune of;Comune de;Comune von;;Comune del Jeque;;;;;;;;;x
+city_count_iberian;Corregidor;Corregidor;Corregidor;;Corregidor;;;;;;;;;x
+city_county_of_iberian;Corregimento of;Corregimento of;Corregimento of;;Corregimento of;;;;;;;;;x
+city_baron_iberian;Alcade;Alcade;Alcade;;Alcade;;;;;;;;;x
+title_prince_iberian;Infante;Infante;Infante;;Infante;;;;;;;;;x
+title_prince_female_iberian;Infanta;Infanta;Infanta;;Infanta;;;;;;;;;x
+barony_of_north_african;Ksar of;Ksar de;Ksar von;;Ksar de;;;;;;;;;x
+barony_north_african;Ksar;Ksar;Ksar;;Ksar;;;;;;;;;x

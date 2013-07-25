@@ -1,0 +1,29 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+** EAST SLAVIC **;;;;;;;;;;;;;;
+emperor_east_slavic;Tsar;Tsar;Tsar;;Tsar;;;;;;;;;x
+emperor_female_east_slavic;Tsaritsa;Tsaritsa;Tsaritsa;;Tsaritsa;;;;;;;;;x
+emperor_title_queen_mother_female_east_slavic;Mat Tsaritsa;Mat Tsaritsa;Mat Tsaritsa;;Mat Tsaritsa;;;;;;;;;x
+city_emperor_east_slavic;Velikiy Knyaz;Velikiy Knyaz;Velikiy Knyaz;;Velikiy Knyaz;;;;;;;;;x
+city_empire_of_east_slavic;Senate of;Grande Principauté de;Großfürstentum von;;Gran Principado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+king_east_slavic;Grand Prince;Grand Prince;Großen Fürst;;Gran Príncipe;;;;;;;;;x
+king_female_east_slavic;Grand Princess;Grande Princesse;Großen Fürstin;;Gran Princesa;;;;;;;;;x
+kingdom_of_east_slavic;Grand Principality of;Grande Principauté de;Großfürstentum von;;Gran Principado de;;;;;;;;;x
+city_kingdom_of_east_slavic;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
+city_king_east_slavic;Grand Prince;Grand Prince;Großen Fürst;;Gran Príncipe;;;;;;;;;x
+city_kingdom_of_east_slavic;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_duke_east_slavic;Prince;Prince;Fürst;;Príncipe;;;;;;;;;x
+duke_east_slavic;Prince;Prince;Fürst;;Príncipe;;;;;;;;;x
+duke_female_east_slavic;Princess;Princesse;Fürstin;;Princesa;;;;;;;;;x
+duchy_of_east_slavic;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+count_east_slavic;Grand Boyar;Grand-Boyard;Großen Bojare;;Gran Boyardo;;;;;;;;;x
+county_of_east_slavic;Grand Boyardom of;Grand Boyardome de;Großen Bojardom von;;Gran Boyardomo de;;;;;;;;;x
+city_count_east_slavic;Posadnik;Posadnik;Posadnik;;Posadnik;;;;;;;;;x
+;;;;;;;;;;;;;;
+baron_east_slavic;Boyar;Boyard;Bojare;;Boyardo;;;;;;;;;x
+baron_female_east_slavic;Lady;Dame;Frau;;Señora;;;;;;;;;x
+barony_of_east_slavic;Boyardom of;Boyardome de;Bojardom von;;Boyardomo de;;;;;;;;;x
+family_palace_baron_east_slavic;Magnate;Magnat;Magnat;;Magnate;;;;;;;;;x
+family_palace_baron_female_east_slavic;Lady;Dame;Frau;;Señora;;;;;;;;;x

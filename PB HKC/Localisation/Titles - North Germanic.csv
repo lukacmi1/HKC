@@ -1,0 +1,82 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+** NORTH GERMANIC **;;;;;;;;;;;;;;
+city_empire_of_north_germanic;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_king_north_germanic;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
+city_kingdom_of_north_germanic;Federation of;Fédération de;Föderation von;;Federación de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_duke_north_germanic;First Mayor;Premier Maire;Erster Bürgermeister;;Primer Alcalde;;;;;;;;;x
+;;;;;;;;;;;;;;
+baron_north_germanic;Lord;Seigneur;Herr;;Señor;;;;;;;;;x
+baron_female_north_germanic;Lady;Dame;Frau;;Señora;;;;;;;;;x
+barony_of_north_germanic;Castle of;Château de;Schloss von;;Castillo de;;;;;;;;;x
+;;;;;;;;;;;;;;
+** NORSE **;;;;;;;;;;;;;;
+emperor_norse;Har Konungr;Har Konungr;Har Konungr;;Har Konungr;;;;;;;;;x
+emperor_female_norse;Har Drottning;Har Drottning;Har Drottning;;Har Drottning;;;;;;;;;x
+emperor_title_queen_mother_female_norse;Drottning Móðir;Drottning Móðir;Drottning Móðir;;Drottning Móðir;;;;;;;;;x
+city_emperor_norse;Frábær Höfðingja;Frábær Höfðingja;Frábær Höfðingja;;Frábær Höfðingja;;;;;;;;;x
+empire_of_norse;High Kingdom of;Haut Royaume de;Hohe Königreich von;;Alto Reino de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_king_norse;Grand Prince;Grand Prince;Großtyrann;;Gran Príncipe;;;;;;;;;x
+;;;;;;;;;;;;;;
+duke_norse;Jarl;Jarl;Jarl;;Jarl;;;;;;;;;;;;;;;;;;;x
+duchy_of_norse;Jarldom of;Comté de;Jarltum von;;Jarldom de;;;;;;;;;x
+city_duke_norse;Prince;Prince;Prinz;;Príncipe;;;;;;;;;x
+city_duchy_of_norse;Land of;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_count_norse;High Chief;;;;;;;;;;;;;x
+city_count_female_norse;Lady;;;;;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;
+baron_norse;Þegn;Þegn;Þegn;;Þegn;;;;;;;;;x
+family_palace_baron_norse;Elder;Ainé;Altere;;Saúco;;;;;;;;;x
+;;;;;;;;;;;;;;
+** SWEDISH **;;;;;;;;;;;;;;
+emperor_swedish;Kejsare;Kejsare;Kejsare;;Kejsare;;;;;;;;;x
+emperor_female_swedish;Kejsarinna;Kejsarinna;Kejsarinna;;Kejsarinna;;;;;;;;;x
+emperor_title_queen_mother_female_swedish;Kejsarmodern;Kejsarmodern;Kejsarmodern;;Kejsarmodern;;;;;;;;;x
+city_emperor_swedish;Storfurste;Storfurste;Storfurste;;Storfurste;;;;;;;;;x
+;;;;;;;;;;;;;;
+family_palace_baron_swedish;Magnate;Magnat;Magnat;;Magnate;;;;;;;;;x
+;;;;;;;;;;;;;;
+** NORWEGIAN **;;;;;;;;;;;;;;
+emperor_norwegian;Keiser;Keiser;Keiser;;Keiser;;;;;;;;;x
+emperor_female_norwegian;Keiserinne;Keiserinne;Keiserinne;;Keiserinne;;;;;;;;;x
+emperor_title_queen_mother_female_norwegian;Keiserinne Mor;Keiserinne Mor;Keiserinne Mor;;Keiserinne Mor;;;;;;;;;x
+city_emperor_norwegian;Tipp-Prins;Tipp-Prins;Tipp-Prins;;Tipp-Prins;;;;;;;;;x
+;;;;;;;;;;;;;;
+family_palace_baron_norwegian;Magnate;Magnat;Magnat;;Magnate;;;;;;;;;x
+;;;;;;;;;;;;;;
+** DANISH **;;;;;;;;;;;;;;
+emperor_danish;Kejser;Kejser;Kejser;;Kejser;;;;;;;;;x
+emperor_female_danish;Kejserinde;Kejserinde;Kejserinde;;Kejserinde;;;;;;;;;x
+emperor_title_queen_mother_female_danish;Enkedronning;Enkedronning;Enkedronning;;Enkedronning;;;;;;;;;x
+city_emperor_danish;Store-Prins;Store-Prins;Store-Prins;;Store-Prins;;;;;;;;;x
+;;;;;;;;;;;;;;
+family_palace_baron_danish;Magnate;Magnat;Magnat;;Magnate;;;;;;;;;x
+;;;;;;;;;;;;;;
+** NORSE-GAEL **;;;;;;;;;;;;;;
+emperor_norsegael;Ard Ri;Ard Ri;Ard Ri;;Ard Ri;;;;;;;;;x
+emperor_female_norsegael;Ard Banríon;Ard Banríon;Ard Banríon;;Ard Banríon;;;;;;;;;x
+emperor_title_queen_mother_female_norsegael;Banríona Máthair;Banríona Máthair;Banríona Máthair;;Banríona Máthair;;;;;;;;;x
+city_emperor_norsegael;Taoiseach;Taoiseach;Taoiseach;;Taoiseach;;;;;;;;;x
+empire_of_norsegael;High Kingdom of;Haut Royaume de;Hohe Königreich von;;Alto Reino de;;;;;;;;;x
+;;;;;;;;;;;;;;
+king_norsegael;Overking;Roi;Koning;;Rei;;;;;;;;;x
+king_female_norsegael;Overqueen;Reine;Königin;;Reina;;;;;;;;;x
+city_king_norsegael;Grand Prince;Grand Prince;Großtyrann;;Gran Príncipe;;;;;;;;;x
+;;;;;;;;;;;;;;
+duke_norsegael;Jarl;Jarl;Jarl;;Jarl;;;;;;;;;;;;;;;;;;;x
+duchy_of_norsegael;Jarldom of;Comté de;Jarltum von;;Jarldom de;;;;;;;;;x
+city_duke_norsegael;Prince;Prince;Prinz;;Príncipe;;;;;;;;;x
+city_duchy_of_norsegael;Land of;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;
+count_norsegael;High Lord;Haut Seigneur;Hoch-Lord;;Gran Señor;;;;;;;;;x
+count_female_norsegael;High Lady;Haute-Dame;Hohe Frau:Gran Dama;;;;;;;;;x
+county_of_norsegael;High Lordship of;Haute Seigneurie de;Hohe Lordschaft von;;Alto Señorío de;;;;;;;;;x
+city_count_norsegael;High Chief;;;;;;;;;;;;;x
+city_count_female_norsegael;Lady;;;;;;;;;;;;;;;;;;x
+;;;;;;;;;;;;;;
+baron_norsegael;Lord;Seigneur;Herr;;Señor;;;;;;;;;x
+baron_female_norsegael;Lady;Dame;Frau;;Señora;;;;;;;;;x
+family_palace_baron_norsegael;Clan Chief;Chef de Clan;Clanchef;;Jefe del Clan;;;;;;;;;x

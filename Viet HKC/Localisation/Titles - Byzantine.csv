@@ -1,0 +1,75 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+** BYZANTINE **;;;;;;;;;;;;;;
+** ARMENIAN **;;;;;;;;;;;;;;
+emperor_armenian;Ink’nakal;Ink’nakal;Ink’nakal;;Ink’nakal;;;;;;;;;x
+emperor_female_armenian;Kaysruhi;Kaysruhi;Kaysruhi;;Kaysruhi;;;;;;;;;x
+emperor_title_queen_mother_female_armenian;Kaysruhi Mayrik;Kaysruhi Mayrik;Kaysruhi Mayrik;;Kaysruhi Mayrik;;;;;;;;;x
+city_emperor_armenian;Hyupatos;Hyupatos;Hyupatos;;Hyupatos;;;;;;;;;x
+city_empire_of_armenian;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_king_armenian;Tribune;Tribun;Volkstribun;;Tribuno;;;;;;;;;x
+city_kingdom_of_armenian;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_duke_armenian;Lord Magistrate;Seigneur Magistrat;Herr Friedensrichter;;Signore Magistrado;;;;;;;;;x
+;;;;;;;;;;;;;;
+** GREEK **;;;;;;;;;;;;;;
+emperor_greek;Basileus;Basileus;Basileus;;Basileus;;;;;;;;;x
+emperor_female_greek;Basilissa;Basilissa;Basilissa;;Basilissa;;;;;;;;;x
+city_emperor_greek;Hypatos;Hypatos;Hypatos;;Hypatos;;;;;;;;;x
+city_empire_of_greek;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+king_greek;Despot;Despote;Despot;;Déspota;;;;;;;;;x
+king_female_greek;Despotess;Dame Despote;Frau Despot;;Señora Déspota;;;;;;;;;x
+kingdom_of_greek;Despotate of;Despotat de;Despotate von;;Despotado de;;;;;;;;;x
+city_king_greek;Protodoux;Protodoux;Protodoux;;Protodoux;;;;;;;;;x;;;;;;;;;;;;;;;
+city_kingdom_of_greek;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_duke_greek;Protarchon;Protarchon;Protarchon;;Protarchon;;;;;;;;;x;;;;;;;;;;;;;;;
+duke_greek;Doux;Doux;Doux;;Doux;;;;;;;;;x
+duke_female_greek;Doukessa;Doukessa;Doukessa;;Doukessa;;;;;;;;;x
+duchy_of_greek;Theme of;Theme de;Theme von;Theme de
+;;;;;;;;;;;;;;
+city_count_greek;Archon;Archon;Archon;;Archon;;;;;;;;;x;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+** ALAN **;;;;;;;;;;;;;;
+emperor_alan;Imperatoris;Imperatoris;Imperatoris;;Imperatoris;;;;;;;;;x
+emperor_female_alan;Imperatrits’a;Imperatrits’a;Imperatrits’a;;Imperatrits’a;;;;;;;;;x
+emperor_title_queen_mother_female_alan;Imperatrits’a Deda;Imperatrits’a Deda;Imperatrits’a Deda;;Imperatrits’a Deda;;;;;;;;;x
+city_emperor_alan;Konsuli;Konsuli;Konsuli;;Konsuli;;;;;;;;;x
+city_empire_of_alan;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_king_alan;Tribune;Tribun;Volkstribun;;Tribuno;;;;;;;;;x
+city_kingdom_of_alan;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_duke_alan;Lord Magistrate;Seigneur Magistrat;Herr Friedensrichter;;Signore Magistrado;;;;;;;;;x
+;;;;;;;;;;;;;;
+** GEORGIAN **;;;;;;;;;;;;;;
+emperor_georgian;Imperatoris;Imperatoris;Imperatoris;;Imperatoris;;;;;;;;;x
+emperor_female_georgian;Imperatrits’a;Imperatrits’a;Imperatrits’a;;Imperatrits’a;;;;;;;;;x
+emperor_title_queen_mother_female_georgian;Imperatrits’a Deda;Imperatrits’a Deda;Imperatrits’a Deda;;Imperatrits’a Deda;;;;;;;;;x
+city_emperor_georgian;Konsuli;Konsuli;Konsuli;;Konsuli;;;;;;;;;x
+city_empire_of_georgian;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_king_georgian;Tribune;Tribun;Volkstribun;;Tribuno;;;;;;;;;x
+city_kingdom_of_georgian;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_duke_georgian;Lord Magistrate;Seigneur Magistrat;Herr Friedensrichter;;Signore Magistrado;;;;;;;;;x
+;;;;;;;;;;;;;;
+** GRIKO **;;;;;;;;;;;;;;
+emperor_griko;Basileus;Basileus;Basileus;;Basileus;;;;;;;;;x
+emperor_female_griko;Basilissa;Basilissa;Basilissa;;Basilissa;;;;;;;;;x
+city_emperor_griko;Hypatos;Hypatos;Hypatos;;Hypatos;;;;;;;;;x
+city_empire_of_griko;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+king_griko;Despot;Despote;Despot;;Déspota;;;;;;;;;x
+king_female_griko;Despotess;Dame Despote;Frau Despot;;Señora Déspota;;;;;;;;;x
+kingdom_of_griko;Despotate of;Despotat de;Despotate von;;Despotado de;;;;;;;;;x
+city_king_griko;Protodoux;Protodoux;Protodoux;;Protodoux;;;;;;;;;x;;;;;;;;;;;;;;;
+city_kingdom_of_griko;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_duke_griko;Protarchon;Protarchon;Protarchon;;Protarchon;;;;;;;;;x;;;;;;;;;;;;;;;
+duke_griko;Doux;Doux;Doux;;Doux;;;;;;;;;x
+duke_female_griko;Doukessa;Doukessa;Doukessa;;Doukessa;;;;;;;;;x
+duchy_of_griko;Theme of;Theme de;Theme von;Theme de
+;;;;;;;;;;;;;;
+city_count_griko;Archon;Archon;Archon;;Archon;;;;;;;;;x;;;;;;;;;;;;;;;

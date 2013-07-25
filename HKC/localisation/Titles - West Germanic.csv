@@ -1,0 +1,50 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+** WEST GERMANIC **;;;;;;;;;;;;;;
+city_empire_of_west_germanic;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_king_west_germanic;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
+city_kingdom_of_west_germanic;Federation of;Fédération de;Föderation von;;Federación de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_duke_west_germanic;First Mayor;Premier Maire;Erster Bürgermeister;;Primer Alcalde;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_count_west_germanic;High-Reeve;Haut-Reeve;Hoher-Reeve;;Alta Reeve;;;;;;;;;x
+;;;;;;;;;;;;;;
+** ENGLISH **;;;;;;;;;;;;;;
+count_english;Earl;Earl;Earl;;Earl;;;;;;;;;x
+count_female_english;Countess;Comtesse;Gräfin;;Condesa;;;;;;;;;x
+county_of_english;Earldom of;Earldom de;Earldom von;;Earldom de;;;;;;;;;x
+;;;;;;;;;;;;;;
+family_palace_baron_english;Grand Burgher;Grand Bourgeois;Großbürger;;Gran Burgués;;;;;;;;;x
+family_palace_baron_female_english;Grand Burgheress;Grande Bourgeoise;Großbürgerin;;Gran Burguesa;;;;;;;;;x
+;;;;;;;;;;;;;;
+** SAXON **;;;;;;;;;;;;;;
+emperor_saxon;Bretwalda;Bretwalda;Bretwalda;;Bretwalda;;;;;;;;;x
+emperor_female_saxon;Cásern;Cásern;Cásern;;Cásern;;;;;;;;;x
+emperor_title_queen_mother_female_saxon;Ræswacennicge;Ræswacennicge;Ræswacennicge;;Ræswacennicge;;;;;;;;;x
+city_emperor_saxon;Grand Æðeling;Grand Æðeling;Grand Æðeling;;Grand Æðeling;;;;;;;;;x
+;;;;;;;;;;;;;;
+title_prince_saxon;Ætheling;Ætheling;Ætheling;;Ætheling;;;;;;;;;x
+;;;;;;;;;;;;;;
+duke_saxon;Eorl;Eorl;Eorl;;Eorl;;;;;;;;;x
+duke_female_saxon;Lady;Dame;Frau;;Señora;;;;;;;;;x
+duchy_of_saxon;Eorldom of;Eorldom de;Eorldom von;;Eorldom de;;;;;;;;;x
+;;;;;;;;;;;;;;
+count_saxon;Sheriff;Shérif;Sheriff;;Jerife;;;;;;;;;x
+count_female_saxon;Lady;Dame;Frau;;Señora;;;;;;;;;x
+county_of_saxon;Shire of;Comté de;Shire von;;Condado de;;;;;;;;;x
+city_count_saxon;Reeve;Reeve;Reeve;;Reeve;;;;;;;;;x
+;;;;;;;;;;;;;;
+baron_saxon;Lord;Seigneur;Herr;;Señor;;;;;;;;;x
+baron_female_saxon;Lady;Dame;Frau;;Señora;;;;;;;;;x
+barony_of_saxon;Castle of;Château de;Schloss von;;Castillo de;;;;;;;;;x
+family_palace_baron_saxon;Magnate;Magnat;Magnat;;Magnate;;;;;;;;;x
+family_palace_baron_female_saxon;Lady;Dame;Frau;;Señora;;;;;;;;;x
+;;;;;;;;;;;;;;
+** DUTCH **;;;;;;;;;;;;;;
+emperor_dutch;Keiser;Keiser;Keiser;;Keiser;;;;;;;;;x
+emperor_female_dutch;Keiserin;Keiserin;Keiserin;;Keiserin;;;;;;;;;x
+emperor_title_queen_mother_female_dutch;Keiserin Douairiëre;Keiserin Douairiëre;Keiserin Douairiëre;;Keiserin Douairiëre;;;;;;;;;x
+city_emperor_dutch;Rijk Kanselier;Rijk Kanselier;Rijk Kanselier;;Rijk Kanselier;;;;;;;;;x
+;;;;;;;;;;;;;;
+family_palace_baron_dutch;Grand Burgher;Grand Bourgeois;Großbürger;;Gran Burgués;;;;;;;;;x
+family_palace_baron_female_dutch;Grand Burgheress;Grande Bourgeoise;Großbürgerin;;Gran Burguesa;;;;;;;;;x
