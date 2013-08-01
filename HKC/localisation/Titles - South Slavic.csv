@@ -46,9 +46,10 @@ kingdom_of_bulgarian;Despotate of;Despotat de;Despotate von;;Despotado de;;;;;;;
 city_king_bulgarian;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
 city_kingdom_of_bulgarian;Grand Republic of;Grande RÈpublique de;Groﬂen Republik;;Gran Rep˙blica de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-duke_bulgarian;Grand Boyar;Grand-Boyard;Groﬂen Bojare;;Gran Boyardo;;;;;;;;;x
-duchy_of_bulgarian;Grand Boyardom of;Grand Boyardome de;Groﬂen Bojartum von;;Gran Boyardomo de;;;;;;;;;x
 city_duke_bulgarian;Voivode;VoÔvode;Woiwode;;VoÔvode;;;;;;;;;x
 ;;;;;;;;;;;;;;
-count_bulgarian;Boyar;Boyard;Bojare;;Boyardo;;;;;;;;;x
-county_of_bulgarian;Boyardom of;Boyardome de;Bojartum von;;Boyardomo de;;;;;;;;;x
+count_bulgarian;Grand Boyar;Grand-Boyard;Groﬂen Bojare;;Gran Boyardo;;;;;;;;;x
+county_of_bulgarian;Grand Boyardom of;Grand Boyardome de;Groﬂen Bojartum von;;Gran Boyardomo de;;;;;;;;;x
+;;;;;;;;;;;;;;
+baron_bulgarian;Boyar;Boyard;Bojare;;Boyardo;;;;;;;;;x
+barony_of_bulgarian;Boyardom of;Boyardome de;Bojartum von;;Boyardomo de;;;;;;;;;x
