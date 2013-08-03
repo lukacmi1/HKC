@@ -62,21 +62,20 @@ emperor_title_queen_mother_female_norsegael;Banríona Máthair;Banríona Máthair;Ba
 city_emperor_norsegael;Taoiseach;Taoiseach;Taoiseach;;Taoiseach;;;;;;;;;x
 empire_of_norsegael;High Kingdom of;Haut Royaume de;Hohe Königreich von;;Alto Reino de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-king_norsegael;Overking;Roi;Koning;;Rei;;;;;;;;;x
-king_female_norsegael;Overqueen;Reine;Königin;;Reina;;;;;;;;;x
 city_king_norsegael;Grand Prince;Grand Prince;Großtyrann;;Gran Príncipe;;;;;;;;;x
 ;;;;;;;;;;;;;;
-duke_norsegael;Jarl;Jarl;Jarl;;Jarl;;;;;;;;;;;;;;;;;;;x
-duchy_of_norsegael;Jarldom of;Comté de;Jarltum von;;Jarldom de;;;;;;;;;x
+duke_norsegael;Jarl;Jarl;Jarl;;Jarl;;;;;;;;;;;;;;;;;;x
+duchy_of_norsegael;Jarldom of;Jarldome de;Jarltum von;;Jarldom de;;;;;;;;;x
 city_duke_norsegael;Prince;Prince;Prinz;;Príncipe;;;;;;;;;x
-city_duchy_of_norsegael;Land of;;;;;;;;;;;;;;x
+city_duchy_of_norsegael;Land of;Terre de;Land of;;Land of;;;;;;;;;;x
 ;;;;;;;;;;;;;;
-count_norsegael;High Lord;Haut Seigneur;Hoch-Lord;;Gran Señor;;;;;;;;;x
-count_female_norsegael;High Lady;Haute-Dame;Hohe Frau:Gran Dama;;;;;;;;;x
-county_of_norsegael;High Lordship of;Haute Seigneurie de;Hohe Lordschaft von;;Alto Señorío de;;;;;;;;;x
-city_count_norsegael;High Chief;;;;;;;;;;;;;x
-city_count_female_norsegael;Lady;;;;;;;;;;;;;;;;;;x
+count_norsegael;Tigerna;Tigerna;Tigerna;;Tigerna;;;;;;;;;x
+count_female_norsegael;Lady;Dame;Frau:Dama;;;;;;;;;x
+county_of_norsegael;Lordship of;Seigneurie de;Lordschaft von;;Señorío de;;;;;;;;;x
+city_count_norse;Lagman;Lagman;Lagman;;Lagman;;;;;;;;;x
 ;;;;;;;;;;;;;;
-baron_norsegael;Lord;Seigneur;Herr;;Señor;;;;;;;;;x
-baron_female_norsegael;Lady;Dame;Frau;;Señora;;;;;;;;;x
+city_baron_norse;Alderman;Alderman;Alderman;;Alderman;;;;;;;;;x
+baron_norse;Þegn;Þegn;Þegn;;Þegn;;;;;;;;;x
+baron_female_norsegael;Chieftess;Matrone;Oberin;;Jefa;;;;;;;;;x
+barony_of_norsegael;Castle of;Château de;Schloss von;;Castillo de;;;;;;;;;x
 family_palace_baron_norsegael;Clan Chief;Chef de Clan;Clanchef;;Jefe del Clan;;;;;;;;;x
