@@ -4,15 +4,12 @@
 emperor_finnish;Keisari;Keisari;Keisari;;Keisari;;;;;;;;;x
 emperor_female_finnish;Keisarinna;Keisarinna;Keisarinna;;Keisarinna;;;;;;;;;x
 emperor_title_queen_mother_female_finnish;Keisarinna Äiti;Keisarinna Äiti;Keisarinna Äiti;;Keisarinna Äiti;;;;;;;;;x
-city_emperor_finnish;Ison Prinssi;Ison Prinssi;Ison Prinssi;;Ison Prinssi;;;;;;;;;x
-city_empire_of_finnish;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
+city_emperor_finnish;Ylikanslerille;Ylikanslerille;Ylikanslerille;;Ylikanslerille;;;;;;;;;x
+city_empire_of_finnish;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_king_finnish;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
+city_king_finnish;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
 city_kingdom_of_finnish;Federation of;Fédération de;Föderation von;;Federación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-duke_finnish;Jarl;Jarl;Jarl;;Jarl;;;;;;;;;x
-duke_female_finnish;Duchess;Duchesse;Herzogin;;Duquesa;;;;;;;;;x
-duchy_of_finnish;Jarldom of;Jarldom de;Jarldom von;;Jarldom de;;;;;;;;;x
 city_duke_finnish;First Mayor;Premier Maire;Erster Bürgermeister;;Primer Alcalde;;;;;;;;;x
 ;;;;;;;;;;;;;;
 baron_finnish;Lord;Seigneur;Herr;;Señor;;;;;;;;;x
@@ -25,15 +22,12 @@ family_palace_baron_female_finnish;Lady;Dame;Frau;;Señora;;;;;;;;;x
 emperor_lappish;Keisari;Keisari;Keisari;;Keisari;;;;;;;;;x
 emperor_female_lappish;Keisarinna;Keisarinna;Keisarinna;;Keisarinna;;;;;;;;;x
 emperor_title_queen_mother_female_lappish;Keisarinna Äiti;Keisarinna Äiti;Keisarinna Äiti;;Keisarinna Äiti;;;;;;;;;x
-city_emperor_lappish;Ison Prinssi;Ison Prinssi;Ison Prinssi;;Ison Prinssi;;;;;;;;;x
-city_empire_of_lappish;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
+city_emperor_lappish;Ylikanslerille;Ylikanslerille;Ylikanslerille;;Ylikanslerille;;;;;;;;;x
+city_empire_of_lappish;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_king_lappish;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
+city_king_lappish;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
 city_kingdom_of_lappish;Federation of;Fédération de;Föderation von;;Federación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-duke_lappish;Jarl;Jarl;Jarl;;Jarl;;;;;;;;;x
-duke_female_lappish;Duchess;Duchesse;Herzogin;;Duquesa;;;;;;;;;x
-duchy_of_lappish;Jarldom of;Jarldom de;Jarldom von;;Jarldom de;;;;;;;;;x
 city_duke_lappish;First Mayor;Échevin;Beigeordneter;;Concejal;;;;;;;;;x
 ;;;;;;;;;;;;;;
 baron_lappish;Lord;Seigneur;Herr;;Señor;;;;;;;;;x
@@ -43,91 +37,68 @@ family_palace_baron_lappish;Magnate;Magnat;Magnat;;Magnate;;;;;;;;;x
 family_palace_baron_female_lappish;Lady;Dame;Frau;;Señora;;;;;;;;;x
 ;;;;;;;;;;;;;;
 ** UGRIC BALTIC **;;;;;;;;;;;;;;
-emperor_ugricbaltic;Karalis;Karalis;Karalis;;Karalis;;;;;;;;;x
-emperor_female_ugricbaltic;Karaliene;Karaliene;Karaliene;;Karaliene;;;;;;;;;x
-emperor_title_queen_mother_female_ugricbaltic;Karaliene Mate;Karaliene Mate;Karaliene Mate;;Karaliene Mate;;;;;;;;;x
-city_emperor_ugricbaltic;Liela Princis;Liela Princis;Liela Princis;;Liela Princis;;;;;;;;;x
-city_empire_of_ugricbaltic;Grand Principality of;Grande Principauté de;Großfürstentum von;;Gran Principado de;;;;;;;;;x
+emperor_ugricbaltic;Keiser;Keiser;Keiser;;Keiser;;;;;;;;;x
+emperor_female_ugricbaltic;Keisrinna;Keisrinna;Keisrinna;;Keisrinna;;;;;;;;;x
+emperor_title_queen_mother_female_ugricbaltic;Keisrinna Ema;Keisrinna Ema;Keisrinna Ema;;Keisrinna Ema;;;;;;;;;x
+city_emperor_ugricbaltic;Korgeim Kantsler;Korgeim Kantsler;Korgeim Kantsler;;Korgeim Kantsler;;;;;;;;;x
+city_empire_of_ugricbaltic;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-king_ugricbaltic;Grand Duke;Grand-Duc;Großherzog;;Gran Duque;;;;;;;;;x
-king_female_ugricbaltic;Grand Duchess;Grande-Duchesse;Großherzogin;;Gran Duquesa;;;;;;;;;x
-kingdom_of_ugricbaltic;Grand Duchy of;Grand-Duché de;Großherzogtum von;;Gran Ducado de;;;;;;;;;x
-city_king_ugricbaltic;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
+city_king_ugricbaltic;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
 city_kingdom_of_ugricbaltic;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_duke_ugricbaltic;Voivode;Voïvode;Woiwode;;Voïvode;;;;;;;;;x
+city_duke_ugric_baltic;Voivode;Voïvode;Woiwode;;Voïvode;;;;;;;;;x
 ;;;;;;;;;;;;;;
-family_palace_baron_ugricbaltic;Magnate;Magnat;Magnat;;Magnate;;;;;;;;;x
-family_palace_baron_female_ugricbaltic;Lady;Dame;Frau;;Señora;;;;;;;;;x
+family_palace_baron_ugric_baltic;Magnate;Magnat;Magnat;;Magnate;;;;;;;;;x
+family_palace_baron_female_ugric_baltic;Lady;Dame;Frau;;Señora;;;;;;;;;x
 ;;;;;;;;;;;;;;
 ** KOMI **;;;;;;;;;;;;;;
-emperor_komi;Karalis;Karalis;Karalis;;Karalis;;;;;;;;;x
-emperor_female_komi;Karaliene;Karaliene;Karaliene;;Karaliene;;;;;;;;;x
-emperor_title_queen_mother_female_komi;Karaliene Mate;Karaliene Mate;Karaliene Mate;;Karaliene Mate;;;;;;;;;x
-city_emperor_komi;Liela Princis;Liela Princis;Liela Princis;;Liela Princis;;;;;;;;;x
-city_empire_of_komi;Grand Principality of;Grande Principauté de;Großfürstentum von;;Gran Principado de;;;;;;;;;x
+emperor_komi;Keiser;Keiser;Keiser;;Keiser;;;;;;;;;x
+emperor_female_komi;Keisrinna;Keisrinna;Keisrinna;;Keisrinna;;;;;;;;;x
+emperor_title_queen_mother_female_komi;Keisrinna Ema;Keisrinna Ema;Keisrinna Ema;;Keisrinna Ema;;;;;;;;;x
+city_emperor_komi;Korgeim Kantsler;Korgeim Kantsler;Korgeim Kantsler;;Korgeim Kantsler;;;;;;;;;x
+city_empire_of_komi;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-king_komi;Grand Duke;Grand-Duc;Großherzog;;Gran Duque;;;;;;;;;x
-king_female_komi;Grand Duchess;Grande-Duchesse;Großherzogin;;Gran Duquesa;;;;;;;;;x
-kingdom_of_komi;Grand Duchy of;Grand-Duché de;Großherzogtum von;;Gran Ducado de;;;;;;;;;x
-city_king_komi;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
-city_kingdom_of_komi;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
-;;;;;;;;;;;;;;
-city_duke_komi;Voivode;Voïvode;Woiwode;;Voïvode;;;;;;;;;x
+city_king_komi;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
+city_kingdom_of_komi;Grand Republic of;Grande République de;Großen Republik von;;Gran República de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 family_palace_baron_komi;Magnate;Magnat;Magnat;;Magnate;;;;;;;;;x
 family_palace_baron_female_komi;Lady;Dame;Frau;;Señora;;;;;;;;;x
 ;;;;;;;;;;;;;;
 ** SAMOYED **;;;;;;;;;;;;;;
-emperor_samoyed;Karalis;Karalis;Karalis;;Karalis;;;;;;;;;x
-emperor_female_samoyed;Karaliene;Karaliene;Karaliene;;Karaliene;;;;;;;;;x
-emperor_title_queen_mother_female_samoyed;Karaliene Mate;Karaliene Mate;Karaliene Mate;;Karaliene Mate;;;;;;;;;x
-city_emperor_samoyed;Liela Princis;Liela Princis;Liela Princis;;Liela Princis;;;;;;;;;x
-city_empire_of_samoyed;Grand Principality of;Grande Principauté de;Großfürstentum von;;Gran Principado de;;;;;;;;;x
+emperor_samoyed;Uralkodó;Uralkodó;Uralkodó;;Uralkodó;;;;;;;;;x
+emperor_female_samoyed;Uralkida;Uralkida;Uralkida;;Uralkida;;;;;;;;;x
+emperor_title_queen_mother_female_samoyed;Uralkida Aiti;Uralkida Aiti;Uralkida Aiti;;Uralkida Aiti;;;;;;;;;x
+city_emperor_samoyed;Korgeim Kantsler;Korgeim Kantsler;Korgeim Kantsler;;Korgeim Kantsler;;;;;;;;;x
+city_empire_of_samoyed;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-king_samoyed;Grand Duke;Grand-Duc;Großherzog;;Gran Duque;;;;;;;;;x
-king_female_samoyed;Grand Duchess;Grande-Duchesse;Großherzogin;;Gran Duquesa;;;;;;;;;x
-kingdom_of_samoyed;Grand Duchy of;Grand-Duché de;Großherzogtum von;;Gran Ducado de;;;;;;;;;x
-city_king_samoyed;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
-city_kingdom_of_samoyed;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
-;;;;;;;;;;;;;;
-city_duke_samoyed;Voivode;Voïvode;Woiwode;;Voïvode;;;;;;;;;x
+city_king_samoyed;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
+city_kingdom_of_samoyed;Grand Republic of;Grande République de;Großen Republik von;;Gran República de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 family_palace_baron_samoyed;Magnate;Magnat;Magnat;;Magnate;;;;;;;;;x
 family_palace_baron_female_samoyed;Lady;Dame;Frau;;Señora;;;;;;;;;x
 ;;;;;;;;;;;;;;
 ** MORDVIN **;;;;;;;;;;;;;;
-emperor_mordvin;Karalis;Karalis;Karalis;;Karalis;;;;;;;;;x
-emperor_female_mordvin;Karaliene;Karaliene;Karaliene;;Karaliene;;;;;;;;;x
-emperor_title_queen_mother_female_mordvin;Karaliene Mate;Karaliene Mate;Karaliene Mate;;Karaliene Mate;;;;;;;;;x
-city_emperor_mordvin;Liela Princis;Liela Princis;Liela Princis;;Liela Princis;;;;;;;;;x
-city_empire_of_mordvin;Grand Principality of;Grande Principauté de;Großfürstentum von;;Gran Principado de;;;;;;;;;x
+emperor_mordvin;Uralkodó;Uralkodó;Uralkodó;;Uralkodó;;;;;;;;;x
+emperor_female_mordvin;Uralkida;Uralkida;Uralkida;;Uralkida;;;;;;;;;x
+emperor_title_queen_mother_female_mordvin;Uralkida Aiti;Uralkida Aiti;Uralkida Aiti;;Uralkida Aiti;;;;;;;;;x
+city_emperor_mordvin;Korgeim Kantsler;Korgeim Kantsler;Korgeim Kantsler;;Korgeim Kantsler;;;;;;;;;x
+city_empire_of_mordvin;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-king_mordvin;Grand Duke;Grand-Duc;Großherzog;;Gran Duque;;;;;;;;;x
-king_female_mordvin;Grand Duchess;Grande-Duchesse;Großherzogin;;Gran Duquesa;;;;;;;;;x
-kingdom_of_mordvin;Grand Duchy of;Grand-Duché de;Großherzogtum von;;Gran Ducado de;;;;;;;;;x
-city_king_mordvin;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
-city_kingdom_of_mordvin;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
-;;;;;;;;;;;;;;
-city_duke_mordvin;Voivode;Voïvode;Woiwode;;Voïvode;;;;;;;;;x
+city_king_mordvin;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
+city_kingdom_of_mordvin;Grand Republic of;Grande République de;Großen Republik von;;Gran República de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 family_palace_baron_mordvin;Magnate;Magnat;Magnat;;Magnate;;;;;;;;;x
 family_palace_baron_female_mordvin;Lady;Dame;Frau;;Señora;;;;;;;;;x
 ;;;;;;;;;;;;;;
 ** UDMURT **;;;;;;;;;;;;;;
-emperor_udmurt;Karalis;Karalis;Karalis;;Karalis;;;;;;;;;x
-emperor_female_udmurt;Karaliene;Karaliene;Karaliene;;Karaliene;;;;;;;;;x
-emperor_title_queen_mother_female_udmurt;Karaliene Mate;Karaliene Mate;Karaliene Mate;;Karaliene Mate;;;;;;;;;x
-city_emperor_udmurt;Liela Princis;Liela Princis;Liela Princis;;Liela Princis;;;;;;;;;x
-city_empire_of_udmurt;Grand Principality of;Grande Principauté de;Großfürstentum von;;Gran Principado de;;;;;;;;;x
+emperor_udmurt;Uralkodó;Uralkodó;Uralkodó;;Uralkodó;;;;;;;;;x
+emperor_female_udmurt;Uralkida;Uralkida;Uralkida;;Uralkida;;;;;;;;;x
+emperor_title_queen_mother_female_udmurt;Uralkida Aiti;Uralkida Aiti;Uralkida Aiti;;Uralkida Aiti;;;;;;;;;x
+city_emperor_udmurt;Korgeim Kantsler;Korgeim Kantsler;Korgeim Kantsler;;Korgeim Kantsler;;;;;;;;;x
+city_empire_of_udmurt;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-king_udmurt;Grand Duke;Grand-Duc;Großherzog;;Gran Duque;;;;;;;;;x
-king_female_udmurt;Grand Duchess;Grande-Duchesse;Großherzogin;;Gran Duquesa;;;;;;;;;x
-kingdom_of_udmurt;Grand Duchy of;Grand-Duché de;Großherzogtum von;;Gran Ducado de;;;;;;;;;x
-city_king_udmurt;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
+city_king_udmurt;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
 city_kingdom_of_udmurt;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
-;;;;;;;;;;;;;;
-city_duke_udmurt;Voivode;Voïvode;Woiwode;;Voïvode;;;;;;;;;x
 ;;;;;;;;;;;;;;
 family_palace_baron_udmurt;Magnate;Magnat;Magnat;;Magnate;;;;;;;;;x
 family_palace_baron_female_udmurt;Lady;Dame;Frau;;Señora;;;;;;;;;x

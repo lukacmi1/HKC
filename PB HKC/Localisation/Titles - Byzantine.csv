@@ -42,8 +42,6 @@ city_empire_of_alan;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
 city_king_alan;Tribune;Tribun;Volkstribun;;Tribuno;;;;;;;;;x
 city_kingdom_of_alan;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_duke_alan;Lord Magistrate;Seigneur Magistrat;Herr Friedensrichter;;Signore Magistrado;;;;;;;;;x
-;;;;;;;;;;;;;;
 ** GEORGIAN **;;;;;;;;;;;;;;
 emperor_georgian;Mepe-Mepeta;Mepe-Mepeta;Mepe-Mepeta;;Mepe-Mepeta;;;;;;;;;x
 emperor_female_georgian;Dedopali-Dedoplebis;Dedopali-Dedoplebis;Dedopali-Dedoplebis;;Dedopali-Dedoplebis;;;;;;;;;x
@@ -54,4 +52,3 @@ city_empire_of_georgian;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
 city_king_georgian;Tribune;Tribun;Volkstribun;;Tribuno;;;;;;;;;x
 city_kingdom_of_georgian;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_duke_georgian;Lord Magistrate;Seigneur Magistrat;Herr Friedensrichter;;Signore Magistrado;;;;;;;;;x

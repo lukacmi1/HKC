@@ -1,8 +1,13 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ** MUSLIM **;;;;;;;;;;;;;;
-temple_emperor_muslim;Prophet;Prophète;Propheten;;Profeta;;;;;;;;;x
-temple_empire_of_muslim;Sacred Empire of;Empire Sacré de;Heiliges Reich von;;Imperio Sagrado de;;;;;;;;;x
-family_palace_baron_muslim;Rais;Rais;Rais;;Rais;;;;;;;;;x
-city_duke_muslim;Hakim;Hakim;Hakim;;Hakim;;;;;;;;;x
+temple_emperor_muslim;Grand Caliph;Grand Calife;Propheten;;Profeta;;;;;;;;;x
+temple_empire_of_muslim;Grand Caliphate of;Grand Califat de;Grand Caliphate von;;Grand Caliphate de;;;;;;;;;x
+;;;;;;;;;;;;;;
 city_king_muslim;Malik;Malik;Malik;;Malik;;;;;;;;;x
-city_kingdom_of_muslim;Malikate of;Malikate de;Malikate von;;Malikate del Jeque de;;;;;;;;;x;
+city_kingdom_of_muslim;Malikate of;Malikat de;Maliktum von;;Malikato de;;;;;;;;;x
+city_kingdom_muslim;Malikate;Malikat;Maliktum;;Malikato;;;;;;;;x
+;;;;;;;;;;;;;;
+city_duke_muslim;Hakim;Hakim;Hakim;;Hakim;;;;;;;;;x
+;;;;;;;;;;;;;;
+family_palace_baron_arabic;Rais;Rais;Rais;;Rais;;;;;;;;;x
+family_palace_baron_iranian;Pasha;Pasha;Pasha;;Pasha;;;;;;;;;x
