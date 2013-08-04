@@ -91,33 +91,30 @@ city_empire_of_breton;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
 city_king_breton;Tribune;Tribun;Volkstribun;;Tribuno;;;;;;;;;x
 city_kingdom_of_breton;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_duke_breton;Lord Magistrate;Seigneur Magistrat;Herr Friedensrichter;;Signore Magistrado;;;;;;;;;x
-;;;;;;;;;;;;;;
 ** PICTISH **;;;;;;;;;;;;;;
-emperor_pictish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
-emperor_female_pictish;Ard Banríon;Ard Banríon;Ard Banríon;;Ard Banríon;;;;;;;;;x
-emperor_title_queen_mother_female_pictish;Banríona Máthair;Banríona Máthair;Banríona Máthair;;Banríona Máthair;;;;;;;;;x
+emperor_pictish;Wledig Uchel;Wledig Uchel;Wledig Uchel;;Wledig Uchel;;;;;;;;;x
+emperor_female_pictish;Frenhines Uchel;Frenhines Uchel;Frenhines Uchel;;Frenhines Uchel;;;;;;;;;x
+emperor_title_queen_mother_female_pictish;Fam Frenhines;Fam Frenhines;Fam Frenhines;;Fam Frenhines;;;;;;;;;x
 empire_of_pictish;High Kingdom of;Royaume de;Königreich von;;Reino de;;;;;;;;;x
-city_emperor_pictish;Taoiseach;Taoiseach;Taoiseach;;Taoiseach;;;;;;;;;x
+city_emperor_pictish;Tywysogwyn;Tywysogwyn;Tywysogwyn;;Tywysogwyn;;;;;;;;;x
 city_empire_of_pictish;Confederation of;Grande Principauté de;Grobfürstentum von;;Gran Principado de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-king_pictish;Overking;Roi;König;;Rey;;;;;;;;;x
-king_female_pictish;Overqueen;Reine;Königin;;Reina;;;;;;;;;x
+king_pictish;Overking;Haut Roi;König;;Rey;;;;;;;;;x
+king_female_pictish;Overqueen;Haute Reine;Königin;;Reina;;;;;;;;;x
 kingdom_of_pictish;Kingdom of;Royaume de;Königreich von;;Reino de;;;;;;;;;x
 city_king_pictish;Grand Prince;Grand Prince;Großtyrann;;Gran Príncipe;;;;;;;;;x
 city_kingdom_of_pictish;Federation of;Fédération de;Föderation von;;Federación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-duke_pictish;King;Roi;König;;Rey;;;;;;;;;x
-duke_female_pictish;Queen;Reine;Königin;;Reina;;;;;;;;;x
-duchy_of_pictish;Minor Kingdom of;Royaume Mineur de;Kleinlich Königreich von;;Pequeña Reino de;;;;;;;;;x
+duke_pictish;Mormaer;Mormaer;Mormaer;;Mormaer;;;;;;;;;;;;;;;;;;x
+duchy_of_pictish;Mormaerdom of;Mormaerdome de;Mormaertum von;;Mormaerdomo de;;;;;;;;;;;;;;x
 city_duke_pictish;Prince;Prince;Prinz;;Príncipe;;;;;;;;;x
 ;;;;;;;;;;;;;;
-count_pictish;High Lord;Haut Seigneur;Hoch-Lord;;Gran Señor;;;;;;;;;x
-count_female_pictish;High Lady;Haute-Dame;Hohe Frau:Gran Dama;;;;;;;;;x
-county_of_pictish;High Lordship of;Haute Seigneurie de;Hohe Lordschaft von;;Alto Señorío de;;;;;;;;;x
+count_pictish;Teyrn;Teyrn;Teyrn;;Teyrn;;;;;;;;;x
+count_female_pictish;Lady;Dame;Frau:Dama;;;;;;;;;x
+county_of_pictish;Lordship of;Seigneurie de;Lordschaft von;;Señorío de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-baron_pictish;Lord;Seigneur;Herr;;Señor;;;;;;;;;x
-baron_female_pictish;Lady;Dame;Frau;;Señora;;;;;;;;;x
+baron_pictish;Chief;Chef;Häuptling;;Jefe;;;;;;;;;x
+baron_female_pictish;Chieftess;Matrone;Oberin;;Jefa;;;;;;;;;x
 barony_of_pictish;Lordship of;Seigneurie de;Lordschaft von;;Señorío de;;;;;;;;;x
 family_palace_baron_pictish;Clan Chief;Chef de Clan;Clanchef;;Jefe del Clan;;;;;;;;;x
 family_palace_baron_female_pictish;Lady;Dame;Frau;;Señora;;;;;;;;;x
