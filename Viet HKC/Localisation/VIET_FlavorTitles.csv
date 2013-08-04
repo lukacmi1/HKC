@@ -12,9 +12,6 @@ job_marshal_georgian;Spaspet;Spaspet;Spaspet;;Spaspet;;;;;;;;;x
 title_prince_georgian;Tavadi;Tavadi;Tavadi;;Tavadi;;;;;;;;;x
 title_prince_female_georgian;Tavadi;Tavadi;Tavadi;;Tavadi;;;;;;;;;x
 job_marshal_armenian;Sparapet;Sparapet;Sparapet;;Sparapet;;;;;;;;;x
-job_marshal_vlach;Ispravnic;Ispravnic;Ispravnic;;Ispravnic;;;;;;;;;x
-job_treasurer_vlach;Vistiernic;Vistiernic;Vistiernic;;Vistiernic;;;;;;;;;x
-job_chancellor_vlach;Logofat;Logofat;Logofat;;Logofat;;;;;;;;;x
 title_prince_east_slavic;Tsarevich;Tsarevich;Tsarevich;;Tsarevich;;;;;;;;;x
 title_prince_female_east_slavic;Tsarevna;Tsarevna;Tsarevna;;Tsarevna;;;;;;;;;x
 job_treasurer_serbian;Protovestijar;Protovestijar;Protovestijar;;Protovestijar;;;;;;;;;x
@@ -84,9 +81,9 @@ job_marshal_bulgar;Kanusubigi;Kanusubigi;Kanusubigi;;Kanusubigi;;;;;;;;;x
 job_treasurer_turkish;Defterdar;Defterdar;Defterdar;;Defterdar;;;;;;;;;x
 #Hindu Titles;;;;;;;;;;;;;;x
 barony_of_indian;Jagirdar of;Jagirdar de;Jagirdar von;;Jagirdar de;;;;;;;;;x
-barony_indian;Jagirdar;Jagirdar;Jagirdar;;Jagirdar;;;;;;;;;x
-baron_indian;Jagir;Jagir;Jagir;;Jagir;;;;;;;;;x
-baron_indian_female;Jagir;Jagir;Jagir;;Jagir;;;;;;;;;x
+barony_indian;Jagir;Jagir;Jagir;;Jagir;;;;;;;;;x
+baron_indian;Jagirdar;Jagirdar;Jagirdar;;Jagirdar;;;;;;;;;x
+baron_indian_female;Jagirdar;Jagirdar;Jagirdar;;Jagirdar;;;;;;;;;x
 count_indian;Sardar;Sardar;Sardar;;Sardar;;;;;;;;;x
 count_indian_female;Sardar;Sardar;Sardar;;Sardar;;;;;;;;;x
 #county_of_indian;High Lordship of;High Lordship de;High Lordship von;;High Lordship del Jeque;;;;;;;;;x
@@ -101,10 +98,10 @@ king_title_ruler_consort_indian;Raja;Raja;Raja;;Raja;;;;;;;;;x
 king_title_ruler_consort_female_indian;Rani;Rani;Rani;;Rani;;;;;;;;;x
 kingdom_of_indian;Raj of;Raj de;Raj von;;Raj de;;;;;;;;;x
 kingdom_indian;Raj;Raj;Raj;;Raj;;;;;;;;;
-emperor_indian;Maharaja;Maharaja;Maharaja;;Maharaja;;;;;;;;;x
-emperor_title_ruler_consort_indian;Maharaja;Maharaja;Maharaja;;Maharaja;;;;;;;;;x
-emperor_title_ruler_consort_female_indian;Maharani;Maharani;Maharani;;Maharani;;;;;;;;;x
-emperor_female_indian;Maharani;Maharani;Maharani;;Maharani;;;;;;;;;x
+emperor_indian;Samraat;Samraat;Samraat;;Samraat;;;;;;;;;x
+emperor_title_ruler_consort_indian;Samraat;Samraat;Samraat;;Samraat;;;;;;;;;x
+emperor_title_ruler_consort_female_indian;Samraani;Samraani;Samraani;;Samraani;;;;;;;;;x
+emperor_female_indian;Samraani;Samraani;Samraani;;Samraani;;;;;;;;;x
 empire_of_indian;Raj of;Raj de;Raj von;;Raj de;;;;;;;;;x
 empire_indian;Raj;Raj;Raj;;Raj;;;;;;;;;
 #Other Religious Titles;;;;;;;;;;;;;;x
@@ -153,14 +150,10 @@ job_spiritual_hindu;Court Acharya;Court Acharya;Court Acharya;;Acharya de la cor
 temple_barony_orthodox;Metropolis;Metropolis;Metropolis;;Metropolis;;;;;;;;;x
 temple_barony_of_orthodox;Metropolis of;Metropolis de;Metropolis von;;Metropolis del Jeque;;;;;;;;;x
 temple_baron_orthodox;Metropolitan;Metropolitan;Metropolitan;;Metropolitan;;;;;;;;;x
-#Merchant Republics;;;;;;;;;;;;;;x
-family_palace_baron_muslim;Rais;Rais;Rais;;Rais;;;;;;;;;x
-family_palace_baron_zoroastrian_group;Rais;Rais;Rais;;Rais;;;;;;;;;x
-family_palace_baron_hindu;Rais;Rais;Rais;;Rais;;;;;;;;;x
-city_duke_muslim;Hakim;Hakim;Hakim;;Hakim;;;;;;;;;x
-city_king_muslim;Malik;Malik;Malik;;Malik;;;;;;;;;x
-city_kingdom_of_muslim;Malikate of;Malikate de;Malikate von;;Malikate del Jeque de;;;;;;;;;x;
-city_kingdom_muslim;Malikate;Malikate;Malikate;;Malikate;;;;;;;;;x;
+temple_barony_finnish_pagan;Sacred Grove;Sacred Grove;Sacred Grove;;Sacred Grove;;;;;;;;;x
+temple_barony_of_finnish_pagan;Sacred Grove of;Sacred Grove de;Sacred Grove von;;Sacred Grove del Jeque;;;;;;;;;x
+temple_barony_finnish_pagan_reformed;Sacred Grove;Sacred Grove;Sacred Grove;;Sacred Grove;;;;;;;;;x
+temple_barony_of_finnish_pagan_reformed;Sacred Grove of;Sacred Grove de;Sacred Grove von;;Sacred Grove del Jeque;;;;;;;;;x
 #Minor Changes;;;;;;;;;;;;;;x
 city_count_italian;Signore;Signore;Signore;;Signore;;;;;;;;;x
 city_count_female_italian;Signora;Signora;Signora;;Signora;;;;;;;;;x
@@ -168,8 +161,6 @@ city_county_of_italian;Comune of;Comune de;Comune von;;Comune del Jeque;;;;;;;;;
 city_count_sicilian;Signore;Signore;Signore;;Signore;;;;;;;;;x
 city_count_female_sicilian;Signora;Signora;Signora;;Signora;;;;;;;;;x
 city_county_of_sicilian;Comune of;Comune de;Comune von;;Comune del Jeque;;;;;;;;;x
-city_count_iberian;Corregidor;Corregidor;Corregidor;;Corregidor;;;;;;;;;x
-city_county_of_iberian;Corregimento of;Corregimento of;Corregimento of;;Corregimento of;;;;;;;;;x
 city_baron_iberian;Alcade;Alcade;Alcade;;Alcade;;;;;;;;;x
 title_prince_iberian;Infante;Infante;Infante;;Infante;;;;;;;;;x
 title_prince_female_iberian;Infanta;Infanta;Infanta;;Infanta;;;;;;;;;x
