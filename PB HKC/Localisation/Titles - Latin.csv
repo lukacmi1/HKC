@@ -1,24 +1,24 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ** LATIN **;;;;;;;;;;;;;;
 ** ROMAN **;;;;;;;;;;;;;;
-emperor_roman;Imperator;Roi;Rex;;Rey;;;;;;;;;x
-emperor_female_roman;Imperatrix;Roi;Rex;;Rey;;;;;;;;;x
-king_roman;Rex;Roi;Regas;;Rey;;;;;;;;;x
-king_female_roman;Regina;Reine;Regina;;Reina;;;;;;;;;x
-duke_roman;Legatus Augusti;;;;;;;;;;;;;x
-duke_female_roman;Legata Augusti;;;;;;;;;;;;;x
-count_roman;Legatus;;;;;;;;;;;;;x
-count_female_roman;Legata;;;;;;;;;;;;;x
-baron_roman;Eques;;;;;;;;;;;;;x
-baron_female_roman;Eques;;;;;;;;;;;;;x
+emperor_roman;Imperator;Imperator;Imperator;;Imperator;;;;;;;;;x
+emperor_female_roman;Imperatrix;Imperatrix;Imperatrix;;Imperatrix;;;;;;;;;x
+king_roman;Rex;Rex;Rex;;Rex;;;;;;;;;x
+king_female_roman;Regina;Regina;Regina;;Regina;;;;;;;;;x
+duke_roman;Legatus Augusti;Legatus Augusti;Legatus Augusti;;Legatus Augusti;;;;;;;;;x
+duke_female_roman;Legata Augusti;Legata Augusti;Legata Augusti;;Legata Augusti;;;;;;;;;x
+count_roman;Legatus;Legatus;Legatus;;Legatus;;;;;;;;;x
+count_female_roman;Legata;Legata;Legata;;Legata;;;;;;;;;x
+baron_roman;Eques;Eques;Eques;;Eques;;;;;;;;;x
+baron_female_roman;Domina;Domina;Domina;;Domina;;;;;;;;;x
 ;;;;;;;;;;
-city_emperor_roman;Emperor;Empereur;Kaiser;;Emperador;;;;;;;;;x
-city_king_roman;Consul;Consul;Konsulat;;Cónsul;;;;;;;;;x
-city_duke_roman;Proconsul;Proconsul;Prokonsul;;Procónsul;;;;;;;;;x
-city_count_roman;Lord Prefect;Seigneur-Préfet;Oberbürgermeister;;Gran Prefecto;;;;;;;;;x
-city_baron_roman;Prefect;Préfet;Bürgermeister;;Prefecto;;;;;;;;;x
-family_palace_baron_roman;Pater Familias;;;;;;;;;;;;;x
-family_palace_baron_female_roman;Mater Familias;;;;;;;;;;;;;x
+city_emperor_roman;Dictator;Dictator;Dictator;;Dictator;;;;;;;;;x
+city_king_roman;Consul;Consul;Consul;;Consul;;;;;;;;;x
+city_duke_roman;Proconsul;Proconsul;Proconsul;;Proconsul;;;;;;;;;x
+city_count_roman;Praefectus Urbanus;Praefectus Urbanus;Praefectus Urbanus;;Praefectus Urbanus;;;;;;;;;x
+city_baron_roman;Praefectus;Praefectus;Praefectus;;Praefectus;;;;;;;;;x
+family_palace_baron_roman;Pater Familias;Pater Familias;Pater Familias;;Pater Familias;;;;;;;;;x
+family_palace_baron_female_roman;Mater Familias;Mater Familias;Mater Familias;;Mater Familias;;;;;;;;;x
 ;;;;;;;;;;
 ** FRANKISH **;;;;;;;;;;;;;;
 emperor_frankish;Empereur;Empereur;Empereur;;Empereur;;;;;;;;;x
@@ -30,8 +30,6 @@ city_empire_of_frankish;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
 city_king_frankish;Tribune;Tribun;Volkstribun;;Tribuno;;;;;;;;;x
 city_kingdom_of_frankish;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_duke_frankish;Lord Magistrate;Seigneur Magistrat;Herr Friedensrichter;;Signore Magistrado;;;;;;;;;x
-;;;;;;;;;;;;;;
 ** OCCITAN **;;;;;;;;;;;;;;
 emperor_occitan;Empereur;Empereur;Empereur;;Empereur;;;;;;;;;x
 emperor_female_occitan;Impératrice;Impératrice;Impératrice;;Impératrice;;;;;;;;;x
@@ -42,21 +40,17 @@ city_empire_of_occitan;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
 city_king_occitan;Tribune;Tribun;Volkstribun;;Tribuno;;;;;;;;;x
 city_kingdom_of_occitan;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_duke_occitan;Lord Magistrate;Seigneur Magistrat;Herr Friedensrichter;;Signore Magistrado;;;;;;;;;x
-;;;;;;;;;;;;;;
 ** NORMAN **;;;;;;;;;;;;;;
 emperor_norman;Empereur;Empereur;Empereur;;Empereur;;;;;;;;;x
 emperor_female_norman;Impératrice;Impératrice;Impératrice;;Impératrice;;;;;;;;;x
 emperor_title_queen_mother_female_norman;Impératrice Douairière;Impératrice Douairière;Impératrice Douairière;;Impératrice Douairière;;;;;;;;;x
-city_emperor_norman;Grand Prince;Grand Prince;Grand Prince;;Grand Prince;;;;;;;;;x
-city_empire_of_norman;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
+city_emperor_norman;Chancelier Suprême;Chancelier Suprême;Chancelier Suprême;;Chancelier Suprême;;;;;;;;;x
+city_empire_of_norman;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_king_norman;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
+city_king_norman;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
 city_kingdom_of_norman;Federation of;Fédération de;Föderation von;;Federación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 city_duke_norman;First Mayor;Premier Maire;Erster Bürgermeister;;Primer Alcalde;;;;;;;;;x
-;;;;;;;;;;;;;;
-city_count_norman;High-Reeve;Haut-Reeve;Hoher-Reeve;;Alta Reeve;;;;;;;;;x
 ;;;;;;;;;;;;;;
 ** ITALIAN **;;;;;;;;;;;;;;
 emperor_italian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
@@ -66,9 +60,11 @@ city_emperor_italian;Console;Console;Console;;Console;;;;;;;;;x
 city_empire_of_italian;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 city_king_italian;Serene Doge;Doge Sérénissime;Gelassene Doge;;Doge Serenísima;;;;;;;;;x
-city_kingdom_of_italian;Serene Republic;République Sérénissime de;Gelassene Republik von;;Serenísima República de;;;;;;;;;x
+city_kingdom_of_italian;Serene Republic of;République Sérénissime de;Gelassene Republik von;;Serenísima República de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 city_duke_italian;Doge;Doge;Doge;;Doge;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_count_italian;Podesta;Podesta;Podesta;;Podesta;;;;;;;;;x
 ;;;;;;;;;;;;;;
 ** SICILIAN **;;;;;;;;;;;;;;
 emperor_sicilian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
@@ -81,3 +77,5 @@ city_king_sicilian;Serene Doge;Doge Sérénissime;Gelassene Doge;;Doge Serenísima;
 city_kingdom_of_sicilian;Serene Republic;République Sérénissime de;Gelassene Republik von;;Serenísima República de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 city_duke_sicilian;Doge;Doge;Doge;;Doge;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_count_sicilian;Podesta;Podesta;Podesta;;Podesta;;;;;;;;;x

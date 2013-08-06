@@ -5,13 +5,8 @@ city_empire_of_iberian;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
 city_king_iberian;Tribune;Tribun;Volkstribun;;Tribuno;;;;;;;;;x
 city_kingdom_of_iberian;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_duke_iberian;Lord Magistrate;Seigneur Magistrat;Herr Friedensrichter;;Signore Magistrado;;;;;;;;;x
-;;;;;;;;;;;;;;
-city_count_iberian;Corregidor;Corregidor;Corregidor;;Corregidor;;;;;;;;;x
-city_county_of_iberian;Corregimento of;Corregimento of;Corregimento of;;Corregimento of;;;;;;;;;x
-;;;;;;;;;;;;;;
-baron_iberian;Lord;Seigneur;Herr;;Señor;;;;;;;;;x
-baron_female_iberian;Lady;Matrone;Oberin;;Jefa;;;;;;;;;x
+baron_iberian;Hidalgo;Hidalgo;Hidalgo;;Hidalgo;;;;;;;;;x
+baron_female_iberian;Lady;Dame;Frau;;Señora;;;;;;;;;x
 barony_of_iberian;Castle of;Château de;Schloss von;;Castillo de;;;;;;;;;x
 family_palace_baron_iberian;Grandee;Grandee;Grandee;;Grandee;;;;;;;;;x
 family_palace_baron_female_irish;Lady;Dame;Frau;;Señora;;;;;;;;;x

@@ -14,6 +14,8 @@ emperor_title_ruler_consort_altaic;Khagan;Khagan;Khagan;;Gran Kan;;;;;;;;;x
 emperor_title_ruler_consort_female_altaic;Khatun;Khatoun;Khatun;;Khatun;;;;;;;;;x
 king_title_ruler_consort_altaic;Khan;Khan;Khan;;Kan;;;;;;;;;x
 king_title_ruler_consort_female_altaic;Khanum;Khanoum;Khanum;;Khanum;;;;;;;;;x
+emperor_title_ruler_consort_russian;Tsar;Tsar;Zar;;Zar;;;;;;;;;x
+emperor_title_ruler_consort_female_russian;Tsaritsa;Tsarine;Zarin;;Zarina;;;;;;;;;x
 baron_title_ruler_consort_arabic;Wâli;Wâli;Wâli;;Valí;;;;;;;;;x
 count_title_ruler_consort_arabic;Sheikh;Cheikh;Scheich;;Jeque;;;;;;;;;x
 duke_title_ruler_consort_arabic;Emir;Émir;Emir;;Emir;;;;;;;;;x

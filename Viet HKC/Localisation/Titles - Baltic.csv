@@ -1,35 +1,33 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ** BALTIC **;;;;;;;;;;;;;;
 ** LETTIGALISH **;;;;;;;;;;;;;;
-emperor_lettigallish;Karalis;Karalis;Karalis;;Karalis;;;;;;;;;x
-emperor_female_lettigallish;Karaliene;Karaliene;Karaliene;;Karaliene;;;;;;;;;x
-emperor_title_queen_mother_female_lettigallish;Karaliene Mate;Karaliene Mate;Karaliene Mate;;Karaliene Mate;;;;;;;;;x
-city_emperor_lettigallish;Liela Princis;Liela Princis;Liela Princis;;Liela Princis;;;;;;;;;x
-city_empire_of_lettigallish;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
+emperor_lettigallish;Imperators;Imperators;Imperators;;Imperators;;;;;;;;;x
+emperor_female_lettigallish;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+emperor_title_queen_mother_female_lettigallish;Imperatore Mate;Imperatore Mate;Imperatore Mate;;Imperatore Mate;;;;;;;;;x
+city_emperor_lettigallish;Augstas Kanclere;Augstas Kanclere;Augstas Kanclere;;Augstas Kanclere;;;;;;;;;x
+city_empire_of_lettigallish;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-king_lettigallish;Grand Duke;Grand-Duc;Großherzog;;Gran Duque;;;;;;;;;x
-king_female_lettigallish;Grand Duchess;Grande-Duchesse;Großherzogin;;Gran Duquesa;;;;;;;;;x
-kingdom_of_lettigallish;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
-city_king_lettigallish;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
-kingdom_of_lettigallish;Grand Duchy of;Grand-Duché de;Großherzogtum von;;Gran Ducado de;;;;;;;;;x
-city_kingdom_of_lettigallish;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
+city_king_lettigallish;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
+city_kingdom_of_lettigallish;Federation of;Fédération de;Föderation von;;Federación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
+duke_lettigallish;Prince;Prince;Prince;;Prince;;;;;;;;;x
+duchy_of_lettigallish;Principality;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
 city_duke_lettigallish;Voivode;Voïvode;Woiwode;;Voïvode;;;;;;;;;x
 ;;;;;;;;;;;;;;
 family_palace_baron_lettigallish;Magnate;Magnat;Magnat;;Magnate;;;;;;;;;x
 ;;;;;;;;;;;;;;
 ** LITHUANIAN **;;;;;;;;;;;;;;
-emperor_lithuanian;Karalius;Karalius;Karalius;;Karalius;;;;;;;;;x
-emperor_female_lithuanian;Karaliene;Karaliene;Karaliene;;Karaliene;;;;;;;;;x
-emperor_title_queen_mother_female_komi;Karaliene Motina;Karaliene Motina;Karaliene Motina;;Karaliene Motina;;;;;;;;;x
-city_emperor_lithuanian;Didysis Princas;Didysis Princas;Didysis Princas;;Didysis Princas;;;;;;;;;x
-city_empire_of_lithuanian;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
+emperor_lithuanian;Imperatorius;Imperatorius;Imperatorius;;Imperatorius;;;;;;;;;x
+emperor_female_lithuanian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+emperor_title_queen_mother_female_komi;Imperatore Motina;Imperatore Motina;Imperatore Motina;;Imperatore Motina;;;;;;;;;x
+city_emperor_lithuanian;Aukstos Kanclerio;Aukstos Kanclerio;Aukstos Kanclerio;;Aukstos Kanclerio;;;;;;;;;x
+city_empire_of_lithuanian;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 king_lithuanian;Grand Duke;Grand-Duc;Großherzog;;Gran Duque;;;;;;;;;x
 king_female_lithuanian;Grand Duchess;Grande-Duchesse;Großherzogin;;Gran Duquesa;;;;;;;;;x
 kingdom_of_lithuanian;Grand Duchy of;Grand-Duché de;Großherzogtum von;;Gran Ducado de;;;;;;;;;x
-city_king_lithuanian;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
-city_kingdom_of_lithuanian;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
+city_king_lithuanian;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
+city_kingdom_of_lithuanian;Federation of;Fédération de;Föderation von;;Federación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 city_duke_lithuanian;Voivode;Voïvode;Woiwode;;Voïvode;;;;;;;;;x
 ;;;;;;;;;;;;;;
@@ -42,7 +40,7 @@ emperor_title_queen_mother_female_prussian;Cesarzowa-Matka;Cesarzowa-Matka;Cesar
 city_emperor_prussian;Imperialnej Kanclerz;Imperialnej Kanclerz;Imperialnej Kanclerz;;Imperialnej Kanclerz;;;;;;;;;x
 city_empire_of_prussian;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_king_prussian;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
+city_king_prussian;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
 city_kingdom_of_prussian;Federation of;Fédération de;Föderation von;;Federación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 city_duke_prussian;First Mayor;Premier Maire;Erster Bürgermeister;;Primer Alcalde;;;;;;;;;x

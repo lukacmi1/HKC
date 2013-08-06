@@ -3,12 +3,15 @@
 emperor_magyar;Császár;Császár;Császár;;Császár;;;;;;;;;x
 emperor_female_magyar;Császárno;Császárno;Császárno;;Császárno;;;;;;;;;x
 emperor_title_queen_mother_female_magyar;Császárné Anya;Császárné Anya;Császárné Anya;;Császárné Anya;;;;;;;;;x
-city_emperor_magyar;Pompás Herceg;Pompás Herceg;Pompás Herceg;;Pompás Herceg;;;;;;;;;x
-city_empire_of_magyar;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
+city_emperor_magyar;Fokancellárral;Fokancellárral;Fokancellárral;;Fokancellárral;;;;;;;;;x
+city_empire_of_magyar;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_king_magyar;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
+city_king_magyar;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
 city_kingdom_of_magyar;Federation of;Fédération de;Föderation von;;Federación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
+duke_magyar;Ban;Ban;Ban;;Ban;;;;;;;;;x
+duke_female_magyar;Banna;Banna;Banna;;Banna;;;;;;;;;x
+duchy_of_magyar;Bannat of;Bannat de;Bannat von;;Bannat de;;;;;;;;;x
 city_duke_magyar;Rector;Recteur;Rektor;;Rectorado;;;;;;;;;x
 ;;;;;;;;;;;;;;
 family_palace_baron_magyar;Magnate;Magnat;Magnat;;Magnate;;;;;;;;;x

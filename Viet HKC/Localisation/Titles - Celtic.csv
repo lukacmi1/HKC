@@ -6,11 +6,11 @@ emperor_female_irish;Ard Banríon;Ard Banríon;Ard Banríon;;Ard Banríon;;;;;;;;;x
 emperor_title_queen_mother_female_irish;Banríona Máthair;Banríona Máthair;Banríona Máthair;;Banríona Máthair;;;;;;;;;x
 empire_of_irish;High Kingdom of;Royaume de;Königreich von;;Reino de;;;;;;;;;x
 city_emperor_irish;Taoiseach;Taoiseach;Taoiseach;;Taoiseach;;;;;;;;;x
-city_empire_of_irish;Confederation of;Grande Principauté de;Grobfürstentum von;;Gran Principado de;;;;;;;;;x
+city_empire_of_irish;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-king_irish;Overking;Roi;König;;Rey;;;;;;;;;x
-king_female_irish;Overqueen;Reine;Königin;;Reina;;;;;;;;;x
-kingdom_of_irish;Kingdom of;Royaume de;Königreich von;;Reino de;;;;;;;;;x
+king_irish;Overking;Haut Roi;König;;Rey;;;;;;;;;x
+king_female_irish;Overqueen;Haute Reine;Königin;;Reina;;;;;;;;;x
+ingdom_of_irish;Kingdom of;Royaume de;Königreich von;;Reino de;;;;;;;;;x
 city_king_irish;Grand Prince;Grand Prince;Großtyrann;;Gran Príncipe;;;;;;;;;x
 city_kingdom_of_irish;Federation of;Fédération de;Föderation von;;Federación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
@@ -19,13 +19,13 @@ duke_female_irish;Queen;Reine;Königin;;Reina;;;;;;;;;x
 duchy_of_irish;Minor Kingdom of;Royaume Mineur de;Kleinlich Königreich von;;Pequeña Reino de;;;;;;;;;x
 city_duke_irish;Prince;Prince;Prinz;;Príncipe;;;;;;;;;x
 ;;;;;;;;;;;;;;
-count_irish;High Lord;Haut Seigneur;Hoch-Lord;;Gran Señor;;;;;;;;;x
-count_female_irish;High Lady;Haute-Dame;Hohe Frau:Gran Dama;;;;;;;;;x
-county_of_irish;High Lordship of;Haute Seigneurie de;Hohe Lordschaft von;;Alto Señorío de;;;;;;;;;x
+count_irish;Tigerna;Tigerna;Tigerna;;Tigerna;;;;;;;;;x
+count_female_irish;High Chieftess;Haute-Matrone;Hohe Frau:Gran Dama;;;;;;;;;x
+county_of_irish;Tuatha of;Tuatha de;Hohe Lordschaft von;;Alto Señorío de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-baron_irish;Lord;Seigneur;Herr;;Señor;;;;;;;;;x
-baron_female_irish;Lady;Dame;Frau;;Señora;;;;;;;;;x
-barony_of_irish;Lordship of;Seigneurie de;Lordschaft von;;Señorío de;;;;;;;;;x
+baron_irish;Chief;Chef;Herr;;Señor;;;;;;;;;x
+baron_female_irish;Chieftess;Matrone;Frau;;Señora;;;;;;;;;x
+barony_of_irish;Tuath of;Tuath de;Lordschaft von;;Señorío de;;;;;;;;;x
 family_palace_baron_irish;Clan Chief;Chef de Clan;Clanchef;;Jefe del Clan;;;;;;;;;x
 family_palace_baron_female_irish;Lady;Dame;Frau;;Señora;;;;;;;;;x
 ;;;;;;;;;;;;;;
@@ -33,17 +33,25 @@ family_palace_baron_female_irish;Lady;Dame;Frau;;Señora;;;;;;;;;x
 emperor_scottish;Ímpire;Ímpire;Ímpire;;Ímpire;;;;;;;;;x
 emperor_female_scottish;Ímpress;Ímpress;Ímpress;;Ímpress;;;;;;;;;x
 emperor_title_queen_mother_female_scottish;Ímpress Baintreach;Ímpress Baintreach;Ímpress Baintreach;;Ímpress Baintreach;;;;;;;;;x
-city_emperor_scottish;Mhór-Prionsa;Mhór-Prionsa;Mhór-Prionsa;;Mhór-Prionsa;;;;;;;;;x
-city_empire_of_scottish;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
+city_emperor_scottish;Ard-Seansailéir;Ard-Seansailéir;Ard-Seansailéir;;Ard-Seansailéir;;;;;;;;;x
+city_empire_of_scottish;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_king_scottish;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
+city_king_scottish;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
 city_kingdom_of_scottish;Federation of;Fédération de;Föderation von;;Federación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_duke_scottish;First Mayor;Premier Maire;Erster Bürgermeister;;Primer Alcalde;;;;;;;;;x
+duke_scottish;Mormaer;Mormaer;Mormaer;;Mormaer;;;;;;;;;;;;;;;;;;x
+duchy_of_scottish;Mormaerdom of;Mormaerdome de;Mormaertum von;;Mormaerdomo de;;;;;;;;;;;;;;x
+city_duke_scottish;Prince;Prince;Prinz;;Príncipe;;;;;;;;;x
+;;;;;;;;;;;;;;
+count_scottish;Thane;Thane;Thane;;Thane;;;;;;;;;x
+count_female_scottish;Lady;Dame;Frau;;Señora;;;;;;;;;x
+county_of_scottish;Thanage of;Thanage de;Thanatum von;;Thanago de;;;;;;;;;x
+city_count_scottish;Lord Provost;Seigneur Prévôt;Herr Propst;;Señor Preboste;;;;;;;;;
 ;;;;;;;;;;;;;;
 baron_scottish;Chief;Chef;Häuptling;;Jefe;;;;;;;;;x
 baron_female_scottish;Chieftess;Matrone;Oberin;;Jefa;;;;;;;;;x
 barony_of_scottish;Castle of;Château de;Schloss von;;Castillo de;;;;;;;;;x
+city_baron_scottish;Provost;Prévôt;Propst;;Preboste;;;;;;;;;x
 family_palace_baron_scottish;Clan Chief;Chef de Clan;Clanchef;;Jefe del Clan;;;;;;;;;x
 family_palace_baron_female_scottish;Lady;Dame;Frau;;Señora;;;;;;;;;x
 ;;;;;;;;;;;;;;
@@ -53,20 +61,23 @@ emperor_female_welsh;Pennaeth Draig;Pennaeth Draig;Pennaeth Draig;;Pennaeth Drai
 emperor_title_ruler_consort_welsh;Brenin;Brenin;Brenin;;Brenin;;;;;;;;;x
 emperor_title_ruler_consort_female_welsh;Frenhines;Frenhines;Frenhines;;Frenhines;;;;;;;;;x
 emperor_title_queen_mother_female_welsh;Fam Frenhines;Fam Frenhines;Fam Frenhines;;Fam Frenhines;;;;;;;;;x
-city_emperor_welsh;Mawreddog Tywysog;Mawreddog Tywysog;Mawreddog Tywysog;;Mawreddog Tywysog;;;;;;;;;x
-city_empire_of_welsh;Grand Principality of;Grande Principauté de;Großfürstentum von;;Gran Principado de;;;;;;;;;x
+city_emperor_welsh;Uchel Ganghellor;Uchel Ganghellor;Uchel Ganghellor;;Uchel Ganghellor;;;;;;;;;x
+city_empire_of_welsh;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_king_welsh;High Chancellor;Grand Chancellier;Großkanzler;;Gran Canciller;;;;;;;;;x
+city_king_welsh;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
 city_kingdom_of_welsh;Federation of;Fédération de;Föderation von;;Federación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 duke_welsh;Prince;Prince;Prinz;;Príncipe;;;;;;;;;x
 duke_female_welsh;Princess;Princesse;Fürstin;;Princesa;;;;;;;;;x
 duchy_of_welsh;Principality of;Principauté de;Fürstentum von;;Principado de;;;;;;;;;x
-city_duke_welsh;First Mayor;Premier Maire;Erster Bürgermeister;;Primer Alcalde;;;;;;;;;x
+;;;;;;;;;;;;;;
+count_welsh;Teyrn;Teyrn;Teyrn;;Teyrn;;;;;;;;;x
+count_female_welsh;Lady;Dame;Frau;;Señora;;;;;;;;;x
+county_of_welsh;Lordship of;Seigneurie de;Lordschaft von;;Señorío de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 baron_welsh;Lord;Seigneur;Herr;;Señor;;;;;;;;;x
 baron_female_welsh;Lady;Dame;Frau;;Señora;;;;;;;;;x
-barony_of_welsh;Lordship of;Seigneurie de;Lordschaft von;;Señorío de;;;;;;;;;x
+barony_of_welsh;Castle of;Château de;Schloss von;;Castillo de;;;;;;;;;x
 family_palace_baron_welsh;Clan Chief;Chef de Clan;Clanchef;;Jefe del Clan;;;;;;;;;x
 family_palace_baron_female_welsh;Lady;Dame;Frau;;Señora;;;;;;;;;x
 ;;;;;;;;;;;;;;
@@ -80,33 +91,30 @@ city_empire_of_breton;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
 city_king_breton;Tribune;Tribun;Volkstribun;;Tribuno;;;;;;;;;x
 city_kingdom_of_breton;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_duke_breton;Lord Magistrate;Seigneur Magistrat;Herr Friedensrichter;;Signore Magistrado;;;;;;;;;x
-;;;;;;;;;;;;;;
 ** PICTISH **;;;;;;;;;;;;;;
-emperor_pictish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
-emperor_female_pictish;Ard Banríon;Ard Banríon;Ard Banríon;;Ard Banríon;;;;;;;;;x
-emperor_title_queen_mother_female_pictish;Banríona Máthair;Banríona Máthair;Banríona Máthair;;Banríona Máthair;;;;;;;;;x
+emperor_pictish;Wledig Uchel;Wledig Uchel;Wledig Uchel;;Wledig Uchel;;;;;;;;;x
+emperor_female_pictish;Frenhines Uchel;Frenhines Uchel;Frenhines Uchel;;Frenhines Uchel;;;;;;;;;x
+emperor_title_queen_mother_female_pictish;Fam Frenhines;Fam Frenhines;Fam Frenhines;;Fam Frenhines;;;;;;;;;x
 empire_of_pictish;High Kingdom of;Royaume de;Königreich von;;Reino de;;;;;;;;;x
-city_emperor_pictish;Taoiseach;Taoiseach;Taoiseach;;Taoiseach;;;;;;;;;x
+city_emperor_pictish;Tywysogwyn;Tywysogwyn;Tywysogwyn;;Tywysogwyn;;;;;;;;;x
 city_empire_of_pictish;Confederation of;Grande Principauté de;Grobfürstentum von;;Gran Principado de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-king_pictish;Overking;Roi;König;;Rey;;;;;;;;;x
-king_female_pictish;Overqueen;Reine;Königin;;Reina;;;;;;;;;x
+king_pictish;Overking;Haut Roi;König;;Rey;;;;;;;;;x
+king_female_pictish;Overqueen;Haute Reine;Königin;;Reina;;;;;;;;;x
 kingdom_of_pictish;Kingdom of;Royaume de;Königreich von;;Reino de;;;;;;;;;x
 city_king_pictish;Grand Prince;Grand Prince;Großtyrann;;Gran Príncipe;;;;;;;;;x
 city_kingdom_of_pictish;Federation of;Fédération de;Föderation von;;Federación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-duke_pictish;King;Roi;König;;Rey;;;;;;;;;x
-duke_female_pictish;Queen;Reine;Königin;;Reina;;;;;;;;;x
-duchy_of_pictish;Minor Kingdom of;Royaume Mineur de;Kleinlich Königreich von;;Pequeña Reino de;;;;;;;;;x
+duke_pictish;Mormaer;Mormaer;Mormaer;;Mormaer;;;;;;;;;;;;;;;;;;x
+duchy_of_pictish;Mormaerdom of;Mormaerdome de;Mormaertum von;;Mormaerdomo de;;;;;;;;;;;;;;x
 city_duke_pictish;Prince;Prince;Prinz;;Príncipe;;;;;;;;;x
 ;;;;;;;;;;;;;;
-count_pictish;High Lord;Haut Seigneur;Hoch-Lord;;Gran Señor;;;;;;;;;x
-count_female_pictish;High Lady;Haute-Dame;Hohe Frau:Gran Dama;;;;;;;;;x
-county_of_pictish;High Lordship of;Haute Seigneurie de;Hohe Lordschaft von;;Alto Señorío de;;;;;;;;;x
+count_pictish;Teyrn;Teyrn;Teyrn;;Teyrn;;;;;;;;;x
+count_female_pictish;Lady;Dame;Frau:Dama;;;;;;;;;x
+county_of_pictish;Lordship of;Seigneurie de;Lordschaft von;;Señorío de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-baron_pictish;Lord;Seigneur;Herr;;Señor;;;;;;;;;x
-baron_female_pictish;Lady;Dame;Frau;;Señora;;;;;;;;;x
+baron_pictish;Chief;Chef;Häuptling;;Jefe;;;;;;;;;x
+baron_female_pictish;Chieftess;Matrone;Oberin;;Jefa;;;;;;;;;x
 barony_of_pictish;Lordship of;Seigneurie de;Lordschaft von;;Señorío de;;;;;;;;;x
 family_palace_baron_pictish;Clan Chief;Chef de Clan;Clanchef;;Jefe del Clan;;;;;;;;;x
 family_palace_baron_female_pictish;Lady;Dame;Frau;;Señora;;;;;;;;;x
