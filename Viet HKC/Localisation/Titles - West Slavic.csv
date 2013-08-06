@@ -4,7 +4,7 @@
 emperor_pomeranian;Císar;Císar;Císar;;Císar;;;;;;;;;x
 emperor_female_pomeranian;Císarovna;Císarovna;Císarovna;;Císarovna;;;;;;;;;x
 emperor_title_queen_mother_female_pomeranian;Vdova Císarovny;Vdova Císarovny;Vdova Císarovny;;Vdova Císarovny;;;;;;;;;x
-city_emperor_pomeranian;Nejvyssí Kanclér;Nejvyssí Kanclér;Nejvyssí Kanclér;;Nejvyssí Kanclér;;;;;;;;;x
+city_emperor_pomeranian;Vysoká Kanclér;Vysoká Kanclér;Vysoká Kanclér;;Vysoká Kanclér;;;;;;;;;x
 city_empire_of_pomeranian;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 city_king_pomeranian;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
@@ -19,7 +19,7 @@ family_palace_baron_female_pomeranian;Grand Burgheress;Grande Bourgeoise;Großbür
 emperor_bohemian;Císar;Císar;Císar;;Císar;;;;;;;;;x
 emperor_female_bohemian;Císarovna;Císarovna;Císarovna;;Císarovna;;;;;;;;;x
 emperor_title_queen_mother_female_bohemian;Vdova Císarovny;Vdova Císarovny;Vdova Císarovny;;Vdova Císarovny;;;;;;;;;x
-city_emperor_bohemian;Nejvyssí Kanclér;Nejvyssí Kanclér;Nejvyssí Kanclér;;Nejvyssí Kanclér;;;;;;;;;x
+city_emperor_bohemian;Vysoká Kanclér;Vysoká Kanclér;Vysoká Kanclér;;Vysoká Kanclér;;;;;;;;;x
 city_empire_of_bohemian;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 city_king_bohemian;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
@@ -34,7 +34,7 @@ family_palace_baron_female_bohemian;Grand Burgheress;Grande Bourgeoise;Großbürge
 emperor_polish;Cesarz;Cesarz;Cesarz;;Cesarz;;;;;;;;;x
 emperor_female_polish;Cesarzowa;Cesarzowa;Cesarzowa;;Cesarzowa;;;;;;;;;x
 emperor_title_queen_mother_female_polish;Cesarzowa-Matka;Cesarzowa-Matka;Cesarzowa-Matka;;Cesarzowa-Matka;;;;;;;;;x
-city_emperor_polish;Najwyzszym Kanclerzem;Najwyzszym Kanclerzem;Najwyzszym Kanclerzem;;Najwyzszym Kanclerzem;;;;;;;;;x
+city_emperor_polish;Wysoka Kanclerz;Wysoka Kanclerz;Wysoka Kanclerz;;Wysoka Kanclerz;;;;;;;;;x
 city_empire_of_polish;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 city_king_polish;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
