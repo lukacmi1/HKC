@@ -17,3 +17,8 @@ duchy_kurdish;Emirate;Émirat;Emirat;;Emirato;;;;;;;;;x;
 kingdom_kurdish;Sultanate;Sultanat;Sultanat;;Sultanato;;;;;;;;;x;
 job_chancellor_kurdish;Grand Vizier;Grand Vizir;Großwesir;;Gran Visir;;;;;;;;;x
 emperor_kurdish;Badshah;Badshah;Badshah;;Badshah;;;;;;;;;x
+city_emperor_iranian;Shahanshah;Shahanshah;Shahanshah;;Rey de reyes;;;;;;;;;x
+city_king_iranian;Tajer-Shah;Chah-Tajer;Tajer-Schah;;Shah-Tajer;;;;;;;;;x
+city_duke_iranian;Tajer-Satrap;Satrape-Tajer;Tajer-Satrap;;Sátrapa-Tajer;;;;;;;;;x
+city_count_iranian;Tajer-Marzoban;Marzoban-Tajer;Tajer-Marzoban;;Marzoban-Tajer;;;;;;;;;x
+family_palace_baron_iranian;Pasha;Pasha;Pasha;;Pasha;;;;;;;;;x
