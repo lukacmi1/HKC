@@ -1,8 +1,17 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ** ZOROASTRIAN **;;;;;;;;;;;;;;
-temple_emperor_zoroastrian;Shahanshah;Shahanshah;Shahanshah;;Rey de reyes;;;;;;;;;x
-temple_emperor_zoroastrian;Shahanshah;Shahanshah;Shahanshah;;Rey de reyes;;;;;;;;;x
-temple_king_zoroastrian;Dastur-Shah;Chah-Dastur;Dastur-Schah;;Shah-Dastur;;;;;;;;;x
+temple_emperor_zoroastrian;Shahanshah;Shahanshah;Shahanshah;;Shahanshah;;;;;;;;;x
+temple_empire_zoroastrian;Atash i-Shahanshahdom;Atash i-Shahanshahdom;Atash i-Shahanshahdom;;Atash i-Shahanshahdom;;;;;;;;;x
+temple_empire_of_zoroastrian;Atash i-Shahanshahdom of;Atash i-Shahanshahdom de;Atash i-Shahanshahdom von;;Atash i-Shahanshahdom de;;;;;;;;;x
+temple_king_zoroastrian;Dastur i-Shah;Chah i-Dastur;Dastur i-Schah;;Shah i-Dastur;;;;;;;;;x
+temple_kingdom_zoroastrian;Atash i-Shahdom;Atash i-Shahdom;Atash i-Shahdom;;Atash i-Shahdom;;;;;;;;;x
+temple_kingdom_of_zoroastrian;Atash i-Shahdom of;Atash i-Shahdom de;Atash i-Shahdom von;;Atash i-Shahdom de;;;;;;;;;x
 temple_duke_zoroastrian;Dastur;Dastur;Dastur;;Dastur;;;;;;;;;x
+temple_duchy_zoroastrian;Atash i-Vahram;Atash i-Vahram;Atash i-Vahram;;Atash i-Vahram;;;;;;;;;x
+temple_duchy_of_zoroastrian;Atash i-Vahram of;Atash i-Vahram de;Atash i-Vahram von;;Atash i-Vahram de;;;;;;;;;x
 temple_count_zoroastrian;Mobad;Mobad;Mobad;;Mobad;;;;;;;;;x
+temple_county_zoroastrian;Atash i-Adaran;Atash i-Adaran;Atash i-Adaran;;Atash i-Adaran;;;;;;;;;x
+temple_county_of_zoroastrian;Atash i-Adaran of;Atash i-Adaran de;Atash i-Adaran von;;Atash i-Adaran del jeque de;;;;;;;;;x
 temple_baron_zoroastrian;Herbad;Herbad;Herbad;;Herbad;;;;;;;;x
+temple_barony_zoroastrian;Atashkada;Atashkada;Atashkada;;Atashkada;;;;;;;;;x
+temple_barony_of_zoroastrian;Atashkada of;Atashkada de;Atashkada von;;Atashkada de;;;;;;;;;x
