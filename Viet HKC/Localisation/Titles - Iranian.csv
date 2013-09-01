@@ -1,7 +1,15 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ** IRANIAN **;;;;;;;;;;;;;;
-city_emperor_iranian;Shahanshah;Shahanshah;Shahanshah;;Rey de reyes;;;;;;;;;x
-city_king_iranian;Tajer-Shah;Chah-Tajer;Tajer-Schah;;Shah-Tajer;;;;;;;;;x
-city_duke_iranian;Tajer-Satrap;Satrape-Tajer;Tajer-Satrap;;Sátrapa-Tajer;;;;;;;;;x
-city_count_iranian;Tajer-Marzoban;Marzoban-Tajer;Tajer-Marzoban;;Marzoban-Tajer;;;;;;;;;x
+emperor_female_iranian;Banebshenan Banebshen;Banebshenan Banebshen;Banebshenan Banebshen;;Banebshenan Banebshen;;;;;;;x
+title_prince_iranian;Shahzada;Shahzada;Shahzada;;Shahzada;;;;;;;;;x
+title_prince_female_iranian;Shahzadokth;Shahzadokth;Shahzadokth;;Shahzadokth;;;;;;;;;x
+;;;;;;;;;;;;;
+city_emperor_iranian;Shahanshah;Shahanshah;Shahanshah;;Shahanshah;;;;;;;;;x
+city_king_iranian;Sardar-i-Bozorg;Sardar-i-Bozorg;Sardar-i-Bozorg;;Sardar-i-Bozorg;;;;;;;;;x
+city_kingdom_iranian;Shahr-i-Bozorg;Shahr-i-Bozorg;Shahr-i-Bozorg;;Shahr-i-Bozorg;;;;;;;;;x
+city_kingdom_of_iranian;Shahr-i-Bozorg of;Shahr-i-Bozorg de;Shahr-i-Bozorg von;;Shahr-i-Bozorg de;;;;;;;;;x
+city_duke_iranian;Sardar;Sardar;Sardar;;Sardar;;;;;;;;;x
+city_duchy_iranian;Shahr;Shahr;Shahr;;Shahr;;;;;;;;;x
+city_duchy_of_iranian;Shahr of;Shahr de;Shahr von;;Shahr de;;;;;;;;;x
+city_count_iranian;Dihqan-i-Bozorg;Dihqan-i-Bozorg;Dihqan-i-Bozorg;;Dihqan-i-Bozorg;;;;;;;;;x
 family_palace_baron_iranian;Pasha;Pasha;Pasha;;Pasha;;;;;;;;;x
