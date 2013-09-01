@@ -12,7 +12,7 @@ city_kingdom_of_croatian;Grand Republic of;Grande République de;Großen Republik;
 ;;;;;;;;;;;;;;
 duke_croatian;Ban;Ban;Ban;;Ban;;;;;;;;;x
 duke_female_croatian;Banna;Banna;Banna;;Banna;;;;;;;;;x
-duchy_of_croatian;Bannat of;Bannat de;Bannat von;;Bannat de;;;;;;;;;x
+duchy_of_croatian;Banate of;Banate de;Banate von;;Banate de;;;;;;;;;x
 city_duke_croatian;Rector;Recteur;Rektor;;Rectorado;;;;;;;;;x
 ;;;;;;;;;;;;;;
 ** SERBIAN **;;;;;;;;;;;;;;
@@ -25,7 +25,7 @@ city_empire_of_serbian;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
 king_serbian;Despot;Despote;Despot;;Déspota;;;;;;;;;x
 king_female_serbian;Despotess;Dame Despote;Frau Despot;;Señora Déspota;;;;;;;;;x
 kingdom_of_serbian;Despotate of;Despotat de;Despotate von;;Despotado de;;;;;;;;;x
-city_king_croatian;Tribune;Tribun;Volkstribun;;Tribuno;;;;;;;;;x
+city_king_serbian;Tribune;Tribun;Volkstribun;;Tribuno;;;;;;;;;x
 city_kingdom_of_serbian;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 city_duke_serbian;Rector;Recteur;Rektor;;Rectorado;;;;;;;;;x
@@ -53,3 +53,21 @@ county_of_bulgarian;Grand Boyardom of;Grand Boyardome de;Großen Bojartum von;;Gr
 ;;;;;;;;;;;;;;
 baron_bulgarian;Boyar;Boyard;Bojare;;Boyardo;;;;;;;;;x
 barony_of_bulgarian;Boyardom of;Boyardome de;Bojartum von;;Boyardomo de;;;;;;;;;x
+;;;;;;;;;;;;;;
+** ROMANIAN **;;;;;;;;;;;;;;
+emperor_romanian;Cezar;Cezar;Cezar;;Cezar;;;;;;;;;x
+emperor_female_romanian;Cezarina;Cezarina;Cezarina;;Cezarina;;;;;;;;;x
+emperor_title_queen_mother_female_romanian;Cezarina Majka;Cezarina Majka;Cezarina Majka;;Cezarina Majka;;;;;;;;;x
+city_emperor_romanian;Consul;Consul;Consul;;Consul;;;;;;;;;x
+city_empire_of_romanian;Senate of;Sénat de;Senat von;;Senado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_king_romanian;Tribune;Tribun;Volkstribun;;Tribuno;;;;;;;;;x
+city_kingdom_of_romanian;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
+;;;;;;;;;;;;;;
+duke_romanian;Ban;Ban;Ban;;Ban;;;;;;;;;x
+duke_female_romanian;Banna;Banna;Banna;;Banna;;;;;;;;;x
+duchy_of_romanian;Banate of;Banate de;Banate von;;Banate de;;;;;;;;;x
+city_duke_romanian;Voivode;Voivode;Woiwode;;Voivode;;;;;;;;;x
+;;;;;;;;;;;;;;
+baron_romanian;Boyar;Boyard;Bojare;;Boyardo;;;;;;;;;x
+barony_of_romanian;Boyardom of;Boyardome de;Bojartum von;;Boyardomo de;;;;;;;;;x
