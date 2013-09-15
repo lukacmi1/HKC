@@ -1,14 +1,14 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 ** PAGAN **;;;;;;;;;;;;;;
-finnish_pagan_reformed;Suomenusko;;;;;;;;;x
-norse_pagan_reformed;Asatru;;;;;;;;;x
-baltic_pagan_reformed;Romuva;;;;;;;;;x
-altaic_pagan_reformed;Tengri;;;;;;;;;x
-slavic_pagan_reformed;Rodnovery;;;;;;;;;x
-west_african_pagan_reformed;Akan;;;;;;;;;x
-finnish_pagan;Finnic;;;;;;;;;x
-baltic_pagan;Baltic;;;;;;;;;x
-altaic_pagan;Altaic;;;;;;;;;x
+finnish_pagan_reformed;Suomenusko;Suomenusko;;;;;;;;x
+norse_pagan_reformed;Asatru;Asatru;;;;;;;;x
+baltic_pagan_reformed;Romuva;Romuva;;;;;;;;x
+altaic_pagan_reformed;Tengri;Tengri;;;;;;;;x
+slavic_pagan_reformed;Rodnovery;Rodnoverie;;;;;;;;x
+west_african_pagan_reformed;Akan;Akan;;;;;;;;x
+finnish_pagan;Finnic;Finnois;;;;;;;;x
+baltic_pagan;Baltic;Baltique;;;;;;;;x
+altaic_pagan;Altaic;Altaïque;;;;;;;;x
 ;;;;;;;;;;;;;;
 HEAD_PRIEST_finnish_pagan_reformed;Päänpappi;Päänpappi;Päänpappi;;Päänpappi;;;;;;;;;x
 HEAD_PRIESTESS_finnish_pagan_reformed;Päänpappitar;Päänpappitar;Päänpappitar;;Päänpappitar;;;;;;;;;x
@@ -21,7 +21,7 @@ HEAD_PRIESTESS_african_pagan_reformed;Musoo Hogon;Musoo Hogon;Musoo Hogon;;Musoo
 HEAD_PRIEST_aztec_pagan_reformed;Quetzalcoatl;Quetzalcoatl;Quetzalcoatl;;Quetzalcoatl;;;;;;;;;x
 HEAD_PRIESTESS_aztec_pagan_reformed;Quetzalcoatl;Quetzalcoatl;Quetzalcoatl;;Quetzalcoatl;;;;;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_baron_pagan_group;Village Elder;Village Elder;Village Elder;;Village Elder;;;;;;;;;x
+city_baron_pagan_group;Village Elder;Doyen du Village;Village Elder;;Village Elder;;;;;;;;;x
 family_palace_baron_pagan_group;Elder;Ainé;Altere;;Saúco;;;;;;;;;x
 ;;;;;;;;;;;;;;
 ** NORSE PAGAN **;;;;;;;;;;;;;;
@@ -49,15 +49,15 @@ city_kingdom_of_norse_pagan_reformed;Federation of;Fédération de;Föderation von;
 temple_duke_norse_pagan;Hofgoði;Hofgoði;Hofgoði;;Hofgoði;;;;;;;;;x
 temple_duke_female_norse_pagan;Hofgyðja;Hofgyðja;Hofgyðja;;Hofgyðja;;;;;;;;;x
 temple_duke_norse_pagan_reformed;Hofgoði;Hofgoði;Hofgoði;;Hofgoði;;;;;;;;;x
-temple_duke_female_norse_pagan_reformed;Hofgyðja;Hofgyðja;Hofgyðja;;Hofgyðja;;;;;;;;;x
+temple_duke_female_norse_pagan_reformed;Hofgyðja;Hofgyðja;Hofgyðja;;Hofgyðja;;;;;;;;x
 duke_norse_pagan;Jarl;Jarl;Jarl;;Jarl;;;;;;;;;;;;;;;;;;;x
 duke_norse_pagan_reformed;Jarl;Jarl;Jarl;;Jarl;;;;;;;;;;;;;;;;;;;x
 duchy_of_norse_pagan;Jarldom of;Comté de;Jarltum von;;Jarldom de;;;;;;;;;x
 duchy_of_norse_pagan_reformed;Jarldom of;Comté de;Jarltum von;;Jarldom de;;;;;;;;;x
 city_duke_norse_pagan;Prince;Prince;Prinz;;Príncipe;;;;;;;;;x
-city_duchy_of_norse_pagan;Eldership of;;;;;;;;;;;;;;x
+city_duchy_of_norse_pagan;Eldership of;Assemblée des Anciens de;Eldership of;;Eldership of;;;;;;;;;;x
 city_duke_norse_pagan_reformed;Prince;Prince;Prinz;;Príncipe;;;;;;;;;x
-city_duchy_of_norse_pagan_reformed;Eldership of;;;;;;;;;;;;;;x
+city_duchy_of_norse_pagan_reformed;Eldership of;Assemblée des Anciens de;Eldership of;;Eldership of;;;;;;;;;;x
 ;;;;;;;;;;;;;;
 count_norse_pagan;Thane;Thane;Thane;;Thane;;;;;;;;;x
 count_norse_pagan_reformed;Thane;Thane;Thane;;Thane;;;;;;;;;x
