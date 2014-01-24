@@ -10,12 +10,149 @@ temple_duke_christian;Prince-Archbishop;Prince Archevêque;Prinz-Erzbischof;;Prín
 ;;;;;;;;;;;;;;
 temple_count_christian;Prince-Bishop;Prince-évêque;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
 ;;;;;;;;;;;;;;
+** LOLLARD **;;;;;;;;;;;;;;
+temple_emperor_lollard;Primate;Primat;Primat;;Primado;;;;;;;;;x
+temple_empire_of_lollard;See of;Siège de;Heiliger Reich von;;Santo Imperio de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_king_lollard;Patriarch;Patriarche;Patriarchen;;Patriarca;;;;;;;;;x
+temple_kingdom_of_lollard;Patriarchate of;Patriarcat de;Patriarchat von;;Rey-Patriarcado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_duke_lollard;Prince-Archbishop;Prince Archevêque;Prinz-Erzbischof;;Príncipe arzobispo;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_count_lollard;Prince-Bishop;Prince-évêque;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
+;;;;;;;;;;;;;;
+** CATHAR **;;;;;;;;;;;;;;
+temple_emperor_cathar;Primate;Primat;Primat;;Primado;;;;;;;;;x
+temple_empire_of_cathar;See of;Siège de;Heiliger Reich von;;Santo Imperio de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_king_cathar;Patriarch;Patriarche;Patriarchen;;Patriarca;;;;;;;;;x
+temple_kingdom_of_cathar;Patriarchate of;Patriarcat de;Patriarchat von;;Rey-Patriarcado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_duke_cathar;Prince-Archbishop;Prince Archevêque;Prinz-Erzbischof;;Príncipe arzobispo;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_count_cathar;Prince-Bishop;Prince-évêque;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
+;;;;;;;;;;;;;;
+** FRATICELLI **;;;;;;;;;;;;;;
+temple_emperor_fraticelli;Primate;Primat;Primat;;Primado;;;;;;;;;x
+temple_empire_of_fraticelli;See of;Siège de;Heiliger Reich von;;Santo Imperio de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_king_fraticelli;Patriarch;Patriarche;Patriarchen;;Patriarca;;;;;;;;;x
+temple_kingdom_of_fraticelli;Patriarchate of;Patriarcat de;Patriarchat von;;Rey-Patriarcado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_duke_fraticelli;Prince-Archbishop;Prince Archevêque;Prinz-Erzbischof;;Príncipe arzobispo;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_count_fraticelli;Prince-Bishop;Prince-évêque;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
+;;;;;;;;;;;;;;
+** FRATICELLI **;;;;;;;;;;;;;;
+temple_emperor_fraticelli;Primate;Primat;Primat;;Primado;;;;;;;;;x
+temple_empire_of_fraticelli;See of;Siège de;Heiliger Reich von;;Santo Imperio de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_king_fraticelli;Patriarch;Patriarche;Patriarchen;;Patriarca;;;;;;;;;x
+temple_kingdom_of_fraticelli;Patriarchate of;Patriarcat de;Patriarchat von;;Rey-Patriarcado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_duke_fraticelli;Prince-Archbishop;Prince Archevêque;Prinz-Erzbischof;;Príncipe arzobispo;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_count_fraticelli;Prince-Bishop;Prince-évêque;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
+;;;;;;;;;;;;;;
+** MIAPHYSITE **;;;;;;;;;;;;;;
+temple_emperor_miaphysite;Primate;Primat;Primat;;Primado;;;;;;;;;x
+temple_empire_of_miaphysite;See of;Siège de;Heiliger Reich von;;Santo Imperio de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_king_miaphysite;Patriarch;Patriarche;Patriarchen;;Patriarca;;;;;;;;;x
+temple_kingdom_of_miaphysite;Patriarchate of;Patriarcat de;Patriarchat von;;Rey-Patriarcado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_duke_miaphysite;Prince-Archbishop;Prince Archevêque;Prinz-Erzbischof;;Príncipe arzobispo;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_count_miaphysite;Prince-Bishop;Prince-évêque;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
+;;;;;;;;;;;;;;
+** MONOPHYSITE **;;;;;;;;;;;;;;
+temple_emperor_monophysite;Primate;Primat;Primat;;Primado;;;;;;;;;x
+temple_empire_of_monophysite;See of;Siège de;Heiliger Reich von;;Santo Imperio de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_king_monophysite;Patriarch;Patriarche;Patriarchen;;Patriarca;;;;;;;;;x
+temple_kingdom_of_monophysite;Patriarchate of;Patriarcat de;Patriarchat von;;Rey-Patriarcado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_duke_monophysite;Prince-Archbishop;Prince Archevêque;Prinz-Erzbischof;;Príncipe arzobispo;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_count_monophysite;Prince-Bishop;Prince-évêque;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
+;;;;;;;;;;;;;;
 ** ORTHODOX **;;;;;;;;;;;;;;
+temple_emperor_orthodox;Primate;Primat;Primat;;Primado;;;;;;;;;x
+temple_empire_of_orthodox;See of;Siège de;Heiliger Reich von;;Santo Imperio de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_king_orthodox;Patriarch;Patriarche;Patriarchen;;Patriarca;;;;;;;;;x
+temple_kingdom_of_orthodox;Patriarchate of;Patriarcat de;Patriarchat von;;Rey-Patriarcado de;;;;;;;;;x
+;;;;;;;;;;;;;;
 temple_duke_orthodox;Exarch;Exarque;Exarchen;;Exarca;;;;;;;;;x
 temple_duchy_of_orthodox;Exarchate of;Exarchat de;Exarchat von;;Exarcado de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 temple_count_orthodox;Metropolitan;Métropolitain;Metropolit;;Metropolitano;;;;;;;;;x
-temple_county_of_othodox;Metropolite of;Métropolite de;Metropoliten von;;Metropolita de;;;;;;;;;x
+temple_county_of_orthodox;Metropolite of;Métropolite de;Metropoliten von;;Metropolita de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 temple_baron_orthodox;Eparch;Éparque;Eparchen;;Eparca;;;;;;;;;x
 temple_barony_of_orthodox;Eparchy of;Éparchie de;Eparchie von;;Eparquía de;;;;;;;;;x
+;;;;;;;;;;;;;;
+** BOGOMILIST **;;;;;;;;;;;;;;
+temple_emperor_bogomilist;Primate;Primat;Primat;;Primado;;;;;;;;;x
+temple_empire_of_bogomilist;See of;Siège de;Heiliger Reich von;;Santo Imperio de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_king_bogomilist;Patriarch;Patriarche;Patriarchen;;Patriarca;;;;;;;;;x
+temple_kingdom_of_bogomilist;Patriarchate of;Patriarcat de;Patriarchat von;;Rey-Patriarcado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_duke_bogomilist;Exarch;Exarque;Exarchen;;Exarca;;;;;;;;;x
+temple_duchy_of_bogomilist;Exarchate of;Exarchat de;Exarchat von;;Exarcado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_count_bogomilist;Metropolitan;Métropolitain;Metropolit;;Metropolitano;;;;;;;;;x
+temple_county_of_bogomilist;Metropolite of;Métropolite de;Metropoliten von;;Metropolita de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_baron_bogomilist;Eparch;Éparque;Eparchen;;Eparca;;;;;;;;;x
+temple_barony_of_bogomilist;Eparchy of;Éparchie de;Eparchie von;;Eparquía de;;;;;;;;;x
+;;;;;;;;;;;;;;
+** NESTORIAN **;;;;;;;;;;;;;;
+temple_emperor_nestorian;Primate;Primat;Primat;;Primado;;;;;;;;;x
+temple_empire_of_nestorian;See of;Siège de;Heiliger Reich von;;Santo Imperio de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_king_nestorian;Patriarch;Patriarche;Patriarchen;;Patriarca;;;;;;;;;x
+temple_kingdom_of_nestorian;Patriarchate of;Patriarcat de;Patriarchat von;;Rey-Patriarcado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_duke_nestorian;Exarch;Exarque;Exarchen;;Exarca;;;;;;;;;x
+temple_duchy_of_nestorian;Exarchate of;Exarchat de;Exarchat von;;Exarcado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_count_nestorian;Metropolitan;Métropolitain;Metropolit;;Metropolitano;;;;;;;;;x
+temple_county_of_nestorian;Metropolite of;Métropolite de;Metropoliten von;;Metropolita de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_baron_nestorian;Eparch;Éparque;Eparchen;;Eparca;;;;;;;;;x
+temple_barony_of_nestorian;Eparchy of;Éparchie de;Eparchie von;;Eparquía de;;;;;;;;;x
+;;;;;;;;;;;;;;
+** MONOTHELITE **;;;;;;;;;;;;;;
+temple_emperor_monothelite;Primate;Primat;Primat;;Primado;;;;;;;;;x
+temple_empire_of_monothelite;See of;Siège de;Heiliger Reich von;;Santo Imperio de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_king_monothelite;Patriarch;Patriarche;Patriarchen;;Patriarca;;;;;;;;;x
+temple_kingdom_of_monothelite;Patriarchate of;Patriarcat de;Patriarchat von;;Rey-Patriarcado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_duke_monothelite;Exarch;Exarque;Exarchen;;Exarca;;;;;;;;;x
+temple_duchy_of_monothelite;Exarchate of;Exarchat de;Exarchat von;;Exarcado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_count_monothelite;Metropolitan;Métropolitain;Metropolit;;Metropolitano;;;;;;;;;x
+temple_county_of_monothelite;Metropolite of;Métropolite de;Metropoliten von;;Metropolita de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_baron_monothelite;Eparch;Éparque;Eparchen;;Eparca;;;;;;;;;x
+temple_barony_of_monothelite;Eparchy of;Éparchie de;Eparchie von;;Eparquía de;;;;;;;;;x
+;;;;;;;;;;;;;;
+** ICONOCLAST **;;;;;;;;;;;;;;
+temple_emperor_iconoclast;Primate;Primat;Primat;;Primado;;;;;;;;;x
+temple_empire_of_iconoclast;See of;Siège de;Heiliger Reich von;;Santo Imperio de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_king_iconoclast;Patriarch;Patriarche;Patriarchen;;Patriarca;;;;;;;;;x
+temple_kingdom_of_iconoclast;Patriarchate of;Patriarcat de;Patriarchat von;;Rey-Patriarcado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_duke_iconoclast;Exarch;Exarque;Exarchen;;Exarca;;;;;;;;;x
+temple_duchy_of_iconoclast;Exarchate of;Exarchat de;Exarchat von;;Exarcado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_count_iconoclast;Metropolitan;Métropolitain;Metropolit;;Metropolitano;;;;;;;;;x
+temple_county_of_iconoclast;Metropolite of;Métropolite de;Metropoliten von;;Metropolita de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_baron_iconoclast;Eparch;Éparque;Eparchen;;Eparca;;;;;;;;;x
+temple_barony_of_iconoclast;Eparchy of;Éparchie de;Eparchie von;;Eparquía de;;;;;;;;;x
+;;;;;;;;;;;;;;
