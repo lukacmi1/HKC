@@ -10,8 +10,8 @@ finnish_pagan;Finnic;Finnois;;;;;;;;x
 baltic_pagan;Baltic;Baltique;;;;;;;;x
 altaic_pagan;Altaic;AltaÔque;;;;;;;;x
 ;;;;;;;;;;;;;;
-HEAD_PRIEST_finnish_pagan_reformed;P‰‰npappi;P‰‰npappi;P‰‰npappi;;P‰‰npappi;;;;;;;;;x
-HEAD_PRIESTESS_finnish_pagan_reformed;P‰‰npappitar;P‰‰npappitar;P‰‰npappitar;;P‰‰npappitar;;;;;;;;;x
+HEAD_PRIEST_finnish_pagan_reformed;Ylipappi;Ylipappi;Ylipappi;;Ylipappi;;;;;;;;;x
+HEAD_PRIESTESS_finnish_pagan_reformed;Ylipappitar;Ylipappitar;Ylipappitar;;Ylipappitar;;;;;;;;;x
 HEAD_PRIEST_baltic_pagan_reformed;Kriwe;Kriwe;Kriwe;;Kriwe;;;;;;;;;x
 HEAD_PRIESTESS_baltic_pagan_reformed;Kriwe Ponia;Kriwe Ponia;Kriwe Ponia;;Kriwe Ponia;;;;;;;;;x
 HEAD_PRIEST_slavic_pagan_reformed;Hlava Knez;Hlava Knez;Hlava Knez;;Hlava Knez;;;;;;;;;x

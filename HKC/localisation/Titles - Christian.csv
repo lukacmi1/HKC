@@ -17,9 +17,8 @@ temple_empire_of_lollard;See of;Siège de;Heiliger Reich von;;Santo Imperio de;;;
 temple_king_lollard;Patriarch;Patriarche;Patriarchen;;Patriarca;;;;;;;;;x
 temple_kingdom_of_lollard;Patriarchate of;Patriarcat de;Patriarchat von;;Rey-Patriarcado de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-temple_duke_lollard;Prince-Archbishop;Prince Archevêque;Prinz-Erzbischof;;Príncipe arzobispo;;;;;;;;;x
-;;;;;;;;;;;;;;
-temple_count_lollard;Prince-Bishop;Prince-évêque;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
+temple_duke_lollard;Archbishop;Archevêque;Prinz-Erzbischof;;Príncipe arzobispo;;;;;;;;;x
+temple_count_lollard;High-Bishop;Haut-évêque;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
 ;;;;;;;;;;;;;;
 ** CATHAR **;;;;;;;;;;;;;;
 temple_emperor_cathar;Primate;Primat;Primat;;Primado;;;;;;;;;x
@@ -28,20 +27,9 @@ temple_empire_of_cathar;See of;Siège de;Heiliger Reich von;;Santo Imperio de;;;;
 temple_king_cathar;Patriarch;Patriarche;Patriarchen;;Patriarca;;;;;;;;;x
 temple_kingdom_of_cathar;Patriarchate of;Patriarcat de;Patriarchat von;;Rey-Patriarcado de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-temple_duke_cathar;Prince-Archbishop;Prince Archevêque;Prinz-Erzbischof;;Príncipe arzobispo;;;;;;;;;x
+temple_duke_cathar;Archperfecti;Archebonhomme;Prinz-Erzbischof;;Príncipe arzobispo;;;;;;;;;x
 ;;;;;;;;;;;;;;
-temple_count_cathar;Prince-Bishop;Prince-évêque;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
-;;;;;;;;;;;;;;
-** FRATICELLI **;;;;;;;;;;;;;;
-temple_emperor_fraticelli;Primate;Primat;Primat;;Primado;;;;;;;;;x
-temple_empire_of_fraticelli;See of;Siège de;Heiliger Reich von;;Santo Imperio de;;;;;;;;;x
-;;;;;;;;;;;;;;
-temple_king_fraticelli;Patriarch;Patriarche;Patriarchen;;Patriarca;;;;;;;;;x
-temple_kingdom_of_fraticelli;Patriarchate of;Patriarcat de;Patriarchat von;;Rey-Patriarcado de;;;;;;;;;x
-;;;;;;;;;;;;;;
-temple_duke_fraticelli;Prince-Archbishop;Prince Archevêque;Prinz-Erzbischof;;Príncipe arzobispo;;;;;;;;;x
-;;;;;;;;;;;;;;
-temple_count_fraticelli;Prince-Bishop;Prince-évêque;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
+temple_count_cathar;Bishop-Perfecti;Évêque-Bonhomme;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
 ;;;;;;;;;;;;;;
 ** FRATICELLI **;;;;;;;;;;;;;;
 temple_emperor_fraticelli;Primate;Primat;Primat;;Primado;;;;;;;;;x
@@ -50,10 +38,22 @@ temple_empire_of_fraticelli;See of;Siège de;Heiliger Reich von;;Santo Imperio de
 temple_king_fraticelli;Patriarch;Patriarche;Patriarchen;;Patriarca;;;;;;;;;x
 temple_kingdom_of_fraticelli;Patriarchate of;Patriarcat de;Patriarchat von;;Rey-Patriarcado de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-temple_duke_fraticelli;Prince-Archbishop;Prince Archevêque;Prinz-Erzbischof;;Príncipe arzobispo;;;;;;;;;x
+temple_duke_fraticelli;Archbishop;Archevêque;Prinz-Erzbischof;;Príncipe arzobispo;;;;;;;;;x
 ;;;;;;;;;;;;;;
-temple_count_fraticelli;Prince-Bishop;Prince-évêque;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
+temple_count_fraticelli;High-Bishop;Haut-évêque;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
 ;;;;;;;;;;;;;;
+** WALDENSIAN **;;;;;;;;;;;;;;
+temple_emperor_waldensian;Primate;Primat;Primat;;Primado;;;;;;;;;x
+temple_empire_of_waldensian;See of;Siège de;Heiliger Reich von;;Santo Imperio de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_king_waldensian;Patriarch;Patriarche;Patriarchen;;Patriarca;;;;;;;;;x
+temple_kingdom_of_waldensian;Patriarchate of;Patriarcat de;Patriarchat von;;Rey-Patriarcado de;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_duke_waldensian;High Elder;Haut Ainé;Prinz-Erzbischof;;Príncipe arzobispo;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_count_waldensian;Elder-Pastor;Ainé-Pasteur;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
+;;;;;;;;;;;;;;
+temple_baron_waldensian;Pastor;Pasteur;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
 ** MIAPHYSITE **;;;;;;;;;;;;;;
 temple_emperor_miaphysite;Primate;Primat;Primat;;Primado;;;;;;;;;x
 temple_empire_of_miaphysite;See of;Siège de;Heiliger Reich von;;Santo Imperio de;;;;;;;;;x
