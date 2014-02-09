@@ -46,10 +46,10 @@ city_kingdom_of_norse_pagan;Federation of;Fédération de;Föderation von;;Federaci
 city_king_norse_pagan_reformed;Grand Prince;Grand Prince;Großtyrann;;Gran Príncipe;;;;;;;;;x
 city_kingdom_of_norse_pagan_reformed;Federation of;Fédération de;Föderation von;;Federación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-temple_duke_norse_pagan;Hofgoði;Hofgoði;Hofgoði;;Hofgoði;;;;;;;;;x
-temple_duke_female_norse_pagan;Hofgyðja;Hofgyðja;Hofgyðja;;Hofgyðja;;;;;;;;;x
-temple_duke_norse_pagan_reformed;Hofgoði;Hofgoði;Hofgoði;;Hofgoði;;;;;;;;;x
-temple_duke_female_norse_pagan_reformed;Hofgyðja;Hofgyðja;Hofgyðja;;Hofgyðja;;;;;;;;x
+temple_duke_norse_pagan;Efstrgodi;Efstrgodi;Efstrgodi;;Efstrgodi;;;;;;;;;x
+temple_duke_female_norse_pagan;Efstrgyðja;Efstrgyðja;Efstrgyðja;;Efstrgyðja;;;;;;;;;x
+temple_duke_norse_pagan_reformed;Efstrgodi;Efstrgodi;Efstrgodi;;Efstrgodi;;;;;;;;;x
+temple_duke_female_norse_pagan_reformed;Efstrgyðja;Efstrgyðja;Efstrgyðja;;Efstrgyðja;;;;;;;;;x
 duke_norse_pagan;Jarl;Jarl;Jarl;;Jarl;;;;;;;;;;;;;;;;;;;x
 duke_norse_pagan_reformed;Jarl;Jarl;Jarl;;Jarl;;;;;;;;;;;;;;;;;;;x
 duchy_of_norse_pagan;Jarldom of;Comté de;Jarltum von;;Jarldom de;;;;;;;;;x
@@ -63,6 +63,10 @@ count_norse_pagan;Thane;Thane;Thane;;Thane;;;;;;;;;x
 count_norse_pagan_reformed;Thane;Thane;Thane;;Thane;;;;;;;;;x
 city_count_norse_pagan_reformed;Lagman;Lagman;Lagman;;Lagman;;;;;;;;;x
 city_count_norse_pagan_reformed;Lagman;Lagman;Lagman;;Lagman;;;;;;;;;x
+temple_count_norse_pagan;Yfirgodi;Yfirgodi;Yfirgodi;;Yfirgodi;;;;;;;;;x
+temple_count_norse_pagan_reformed;Yfirgodi;Yfirgodi;Yfirgodi;;Yfirgodi;;;;;;;;;x
+temple_count_female_norse_pagan;Yfirgydja;Yfirgydja;Yfirgydja;;Yfirgydja;;;;;;;;;x
+temple_count_female_norse_pagan_reformed;Yfirgydja;Yfirgydja;Yfirgydja;;Yfirgydja;;;;;;;;;x
 ;;;;;;;;;;;;;;
 city_baron_norse_pagan;Alderman;Alderman;Alderman;;Alderman;;;;;;;;;x
 city_baron_norse_pagan_reformed;Alderman;Alderman;Alderman;;Alderman;;;;;;;;;x
