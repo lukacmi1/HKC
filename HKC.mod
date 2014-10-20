@@ -1,3 +1,6 @@
-name = "High Kings and Consuls"
-path = "mod/HKC"
-overrid = "localisation"
+name="High Kings and Consuls: A localisation mod"
+archive="mod/HKC"
+tags=
+{
+Localisations Titles Graphics French }
+picture="preview.jpg"
