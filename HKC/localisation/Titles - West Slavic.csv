@@ -3,8 +3,8 @@
 ** POMERANIAN **;;;;;;;;;;;;;;
 emperor_pomeranian;Císar;Císar;Císar;;Císar;;;;;;;;;x
 emperor_female_pomeranian;Císarovna;Císarovna;Císarovna;;Císarovna;;;;;;;;;x
-emperor_title_queen_mother_female_pomeranian;Vdova Císarovny;Vdova Císarovny;Vdova Císarovny;;Vdova Císarovny;;;;;;;;;x
-city_emperor_pomeranian;Vysoká Kanclér;Vysoká Kanclér;Vysoká Kanclér;;Vysoká Kanclér;;;;;;;;;x
+emperor_title_queen_mother_female_pomeranian;Císarovna Vdova;Císarovna Vdova;Císarovna Vdova;;Císarovna Vdova;;;;;;;;;x
+city_emperor_pomeranian;Nejvyšší Kanclér;Nejvyšší Kanclér;Nejvyšší Kanclér;;Nejvyšší Kanclér;;;;;;;;;x
 city_empire_of_pomeranian;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 city_king_pomeranian;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
@@ -16,19 +16,34 @@ family_palace_baron_pomeranian;Grand Burgher;Grand Bourgeois;Großbürger;;Gran Bu
 family_palace_baron_female_pomeranian;Grand Burgheress;Grande Bourgeoise;Großbürgerin;;Gran Burguesa;;;;;;;;;x
 ;;;;;;;;;;;;;;
 ** BOHEMIAN **;;;;;;;;;;;;;;
-emperor_bohemian;Císar;Císar;Císar;;Císar;;;;;;;;;x
-emperor_female_bohemian;Císarovna;Císarovna;Císarovna;;Císarovna;;;;;;;;;x
-emperor_title_queen_mother_female_bohemian;Vdova Císarovny;Vdova Císarovny;Vdova Císarovny;;Vdova Císarovny;;;;;;;;;x
-city_emperor_bohemian;Vysoká Kanclér;Vysoká Kanclér;Vysoká Kanclér;;Vysoká Kanclér;;;;;;;;;x
+emperor_bohemian;Cesar;Cesar;Cesar;;Cesar;;;;;;;;;x
+emperor_female_bohemian;Cesarovna;Cesarovna;Cesarovna;;Cesarovna;;;;;;;;;x
+emperor_title_queen_mother_female_bohemian;Cesarovna Vdova;Cesarovna Vdova;Cesarovna Vdova;;Cesarovna Vdova;;;;;;;;;x
+city_emperor_bohemian;Nejvyšší Kanclér;Nejvyšší Kanclér;Nejvyšší Kanclér;;Nejvyšší Kanclér;;;;;;;;;x
 city_empire_of_bohemian;Confederation of;Confédération de;Konföderation von;;Confederación de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_king_bohemian;Chancellor;Chancellier;Kanzler;;Canciller;;;;;;;;;x
+city_king_bohemian;Kanclér;Kanclér;Kanclér;;Kanclér;;;;;;;;;x
 city_kingdom_of_bohemian;Grand Republic of;Grande République de;Großen Republik;;Gran República de;;;;;;;;;x
 ;;;;;;;;;;;;;;
-city_duke_bohemian;Voivode;Voïvode;Woiwode;;Voïvode;;;;;;;;;x
+duke_bohemian;Vojvoda;Voïvoda;Woiwoda;;Voïvoda;;;;;;;;;x
+duke_female_bohemian;Vojvodkyna;Voïvoda;Woiwoda;;Voïvoda;;;;;;;;;x
+duchy_of_bohemian;Vojvodstvo of;Vojvodstvo de;Vojvodstvo von;;Vojvodstvo de;;;;;;;;;x
+count_bohemian;Vladyka;Vladyka;Vladyka;;Vladyka;;;;;;;;;x
+county_of_bohemian;Panství of;Panství de;Panství von;;Panství de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 family_palace_baron_bohemian;Grand Burgher;Grand Bourgeois;Großbürger;;Gran Burgués;;;;;;;;;x
 family_palace_baron_female_bohemian;Grand Burgheress;Grande Bourgeoise;Großbürgerin;;Gran Burguesa;;;;;;;;;
+;;;;;;;;;;;;;;
+tribal_duke_bohemian;Kneže;Kneže;Kneže;;Kneže;;;;;;;;;x
+tribal_duke_female_bohemian;Knežna;Knežna;Knežna;;Knežna;;;;;;;;;x
+tribal_duchy_of_bohemian;Knežectvo of;Knežectvo de;Knežectvo von;;Knežectvo de;;;;;;;;;x
+tribal_count_bohemian;Staršina;Staršina;Staršina;;Staršina;;;;;;;;;x
+tribal_county_of_bohemian;Staršinstvo of;Staršinstvo de;Staršinstvo von;;Staršinstvo de;;;;;;;;;x
+;;;;;;;;;;;;;;
+city_baron_bohemian;Rychtár;Rychtár;Rychtár;;Rychtár;;;;;;;;;x
+baron_bohemian;Kastelán;Châtelain;Kastellan;;Castellán;;;;;;;;;;;x
+baron_female_bohemian;Kastelánka;Châtelain;Kastellan;;Castellán;;;;;;;;;;;x
+barony_of_bohemian;Castle of;Château de;Schloss von;;Castillo de;;;;;;;;;x
 ;;;;;;;;;;;;;;
 ** POLISH **;;;;;;;;;;;;;;
 emperor_polish;Cesarz;Cesarz;Cesarz;;Cesarz;;;;;;;;;x
